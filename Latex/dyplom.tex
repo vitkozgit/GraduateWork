@@ -1,0 +1,38 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage{polski}
+
+\usepackage{here}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{graphicx} % Images
+\graphicspath{{Images/}} % path to images
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Bibliografia [] -> .
+\makeatother
+
+\usepackage{geometry} % pola strony
+\geometry{left=2cm}
+\geometry{right=3cm}
+\geometry{top=2.5cm}
+\geometry{bottom=2.5cm}
+
+\begin{document}
+	\input{dyplom-title}
+	\tableofcontents
+	\input{dyplom-wlasciwosci}
+	\input{dyplom-Rozpraszanie-Ramanowskie}
+	\input{dyplom-Rozpraszanie-Ramanowskie-w-ciekich-warstwach}
+	\input{dyplom-przygotowanie-probek-do-badan}
+	\input{dyplom-wyniki-badan}
+	\input{dyplom-opracowanie-wynikow}
+	\input{dyplom-podsumowanie}
+	\input{bibliografija}
+\end{document}
