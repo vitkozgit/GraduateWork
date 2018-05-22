@@ -1,0 +1,2 @@
+id = SLA-39
+temperatura = 600 st celsj;

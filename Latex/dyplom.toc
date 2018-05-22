@@ -13,11 +13,11 @@
 \contentsline {section}{\numberline {3}Rozpraszanie Ramanowskie w ci\IeC {\k e}kich warstwach}{9}
 \contentsline {subsection}{\numberline {3.1}Fonony w materiale}{9}
 \contentsline {subsection}{\numberline {3.2}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma Ramanowskiego}{11}
-\contentsline {subsection}{\numberline {3.3}Piki ramanowskie w cienkich warstwach}{11}
-\contentsline {subsection}{\numberline {3.4}Dane dla pik\IeC {\'o}w ramanowskich GaP Ga2S3}{11}
-\contentsline {subsection}{\numberline {3.5}przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{11}
-\contentsline {section}{\numberline {4}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{12}
-\contentsline {section}{\numberline {5}Wyniki bada\IeC {\'n}}{13}
-\contentsline {section}{\numberline {6}Opracowanie wynik\IeC {\'o}w}{14}
-\contentsline {section}{\numberline {7}Podsumowanie}{15}
-\contentsline {section}{Bibliografia}{16}
+\contentsline {subsection}{\numberline {3.3}Piki ramanowskie w cienkich warstwach}{12}
+\contentsline {subsection}{\numberline {3.4}Dane dla pik\IeC {\'o}w ramanowskich GaP Ga2S3}{12}
+\contentsline {subsection}{\numberline {3.5}przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{12}
+\contentsline {section}{\numberline {4}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{13}
+\contentsline {section}{\numberline {5}Wyniki bada\IeC {\'n}}{14}
+\contentsline {section}{\numberline {6}Opracowanie wynik\IeC {\'o}w}{15}
+\contentsline {section}{\numberline {7}Podsumowanie}{16}
+\contentsline {section}{Bibliografia}{17}

@@ -52,12 +52,17 @@ Pęd fononu jest znacznie większy od pędu fotonu, a energia fotonu jest
 znacznie większa od energii fononu. To znaczy że uczęstniczą w oddziaływaniu tylko te 
 fonony co mają mały pęd.
 
-RYSUNEK
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.8\linewidth]{Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png}
+		\caption{Krzywe dyspersyjne z zaznaczonym obszarem pokazującym które fonony uczęstniczą w rozpraszaniu ramanowskim.}
+	\end{center}
+\end{figure}
 
 Z powyższego rysunku widzimy, że w oddziaływaniach przyjmują udział tylko optyczne fonony co znajdują się w środku strefy Brillouina. Akustyczne fonony nie biorą udziału dlatego, że dla $k \rightarrow 0$ energia też dąży do zera.
 
 \vspace{1cm}
-\textbf{ZAPYTAĆ. O obsadzeniu i dlaczego nie liczy się antystoks} \\ 
+W niniejszej pracy były badane tylko widma stokesowskie dla tego, że one są bardziej intensywne niż widma antystokesowskie. Miarą intensywności widma są piki, które uzyskujemy. Im większe piki, tym mniejszy błąd przy analizie wyników pomiaru.
 Prawdopodobieństwo obsadzenia stanu energetycznego fononem jest proporcjonalne do:
 \begin{equation}
 	\sim \exp^{-\frac{E}{kT}} 
@@ -76,7 +81,11 @@ do intensywności promieniowania pobudzającego jest:
 	\item{$I_{ants}$ - intensywność promieniowania w widmie antystokesowskim};
 	\item{$I$ - intensywność promieniowania pobudzającego}
 \end{itemize}
-
+	Typowa energia wzbudzenia fononu $E = 0.065eV$, więc:
+\begin{equation}
+	\sim \exp^{-\frac{E}{kT}} = \exp^{-\frac{0.065}{0.025}} \approx 0.07
+\end{equation}
+Czyli intensywność widma antystokesowskiego wynosi $7\%$ widma stokesowskiego. 
 \subsection{Co można odczytać z widma Ramanowskiego}
 Ważną rolę w widmie Ramanowskim odgrywa szerokość połówkowa pików.
 Na podstawie informacji o szerokości połówkowej $\Gamma$ można mówić o czasie życia fononów w próbce:
@@ -86,10 +95,13 @@ Na podstawie informacji o szerokości połówkowej $\Gamma$ można mówić o cza
 
 gdzie $\tau$ - czas życia fononu.
 
-RYSUNEK SZEROKOSCI POLOWKOWEJ 
-\\
-\textbf{ZAPYTAĆ! O FWHM}
-\\
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.8\linewidth]{Full_width_at_half_maximum.png}
+		\caption{Szerokość połówkowa piku \textit{FWHM} - z angielskiego \textit{Full Width at Half Maximum}.}
+	\end{center}
+\end{figure}
+
 Szerokość połówkowa zależy od:
 \begin{itemize}
 	\item[1]{Rozmiar próbki. Czy materiał jest cienkowarstwowym, czy bulk.}
@@ -97,10 +109,8 @@ Szerokość połówkowa zależy od:
 	\item[3]{Rozpraszanie fononów wskutek efektów anharmonicznych}
 \end{itemize}
 Na podstawie szerokości piku można uzyskać informację o przewodnictwie cieplnym próbki. 
-\\
-\textbf{ZAPYTAĆ, jak uzyskać TEMPERATURĘ} 
-\\
 W zależności od ilości i kształtu pików można zbadać jaki to jest materiał, czy badany materiał jest czystym materiałem bez domieszek.
+Na podstawie widma Ramanowskiego można oszacować temperaturę ciała. Czyli jest możliwy pomiar temperatury bez ingeracji do badanego materiału.
 
 \subsection{Piki ramanowskie w cienkich warstwach}
 W materiałach cienkowarstwowych jeden z wymiarów jest rzędu kilku nanometrów. To powoduje że zaczynają odgrywać ważną rolę efekty kwantowe. Z zasady nieoznaczoności Heisenberga:
@@ -117,7 +127,7 @@ Pik jest rozmazany w kierunku wyższych energii.
 RYSUNEK PIKU ROZMAZANEGO
 \\
 
-
+Napisać o rozpraszaniu dwufononowym
 
 \subsection{Dane dla pików ramanowskich GaP Ga2S3}
 
