@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  24 MAY 2018 23:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  7 JUN 2018 23:15
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -763,7 +763,7 @@ File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png Graphic file (type png
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png  us
 ed on input line 21. on input line 21.
-Package pdftex.def Info: Requested size: 364.19667pt x 334.48764pt on input lin
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
 e 21.
  [9 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
 <Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=72, 509.5035pt x 
@@ -773,74 +773,83 @@ pe png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.p
 ng  used on input line 57. on input line 57.
-Package pdftex.def Info: Requested size: 364.19667pt x 334.48764pt on input lin
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
 e 57.
  [10 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
-<Images/Full_width_at_half_maximum.png, id=77, 339.2675pt x 189.70876pt>
+<Images/Full_width_at_half_maximum.png, id=78, 339.2675pt x 189.70876pt>
 File: Images/Full_width_at_half_maximum.png Graphic file (type png)
 <use Images/Full_width_at_half_maximum.png>
 Package pdftex.def Info: Images/Full_width_at_half_maximum.png  used on input l
 ine 100. on input line 100.
 Package pdftex.def Info: Requested size: 364.19667pt x 203.65793pt on input lin
 e 100.
-[11]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=83, 509.50
+[11 <./Images/Full_width_at_half_maximum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=84, 509.50
 35pt x 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQu
 antum.png  used on input line 128. on input line 128.
-Package pdftex.def Info: Requested size: 364.19667pt x 334.48764pt on input lin
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
 e 128.
- [12 <./Images/Full_width_at_half_maximum.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf, id=89, pagebox=cropbox, 578.1
+<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf, id=85, pagebox=cropbox, 578.1
 6pt x 357.335pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf Graphic file (type pdf)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf  used 
 on input line 138. on input line 138.
-Package pdftex.def Info: Requested size: 364.19667pt x 225.08952pt on input lin
-e 138.
- [13 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>])
-(dyplom-przygotowanie-probek-do-badan.tex [14 <./Images/Rozpraszanie-Ramanowski
-e-Ciekie/piki.pdf>]) (dyplom-wyniki-badan.tex [15])
-(dyplom-opracowanie-wynikow.tex [16]) (dyplom-podsumowanie.tex [17])
-(bibliografija.tex [18]) [19] (dyplom.aux) ) 
+Package pdftex.def Info: Requested size: 318.66948pt x 196.9547pt on input line
+ 138.
+ [12 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=91, 509.5035pt
+ x 467.94826pt>
+File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png Graphic file 
+(type png)
+<use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>
+Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposit
+e.png  used on input line 148. on input line 148.
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
+e 148.
+)
+(dyplom-przygotowanie-probek-do-badan.tex [13 <./Images/Rozpraszanie-Ramanowski
+e-Ciekie/piki.pdf> <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.p
+ng>] [14]) (dyplom-wyniki-badan.tex [15]) (dyplom-opracowanie-wynikow.tex
+[16]) (dyplom-podsumowanie.tex [17]) (bibliografija.tex [18]) [19] (dyplom.aux)
+ ) 
 Here is how much of TeX's memory you used:
- 4502 strings out of 495169
- 63665 string characters out of 3180275
+ 4507 strings out of 495169
+ 63940 string characters out of 3180275
  135251 words of memory out of 3000000
- 7663 multiletter control sequences out of 15000+200000
+ 7667 multiletter control sequences out of 15000+200000
  19118 words of font info for 49 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
  41i,14n,25p,1503b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Overshadow/AppData/Roamin
-g/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type
-1/public/cm-super/sfbx1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/
-fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/Overshadow/AppData/Roaming/M
-iKTeX/2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/Overshadow/AppData
-/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Overshad
-ow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/User
-s/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfti1095.pf
-b><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/s
-fxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
-cm-super/sfxc2488.pfb>
-Output written on dyplom.pdf (20 pages, 1345349 bytes).
+{C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-s
+uper-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Overshadow/
+AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Users/O
+vershadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1200.pfb><
+C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx
+1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-
+super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/
+public/cm-super/sfrm1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fo
+nts/type1/public/cm-super/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiK
+TeX/2.9/fonts/type1/public/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/R
+oaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfxc2488.pfb>
+Output written on dyplom.pdf (20 pages, 1439326 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
+ 186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

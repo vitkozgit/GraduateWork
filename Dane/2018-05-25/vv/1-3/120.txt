@@ -1,0 +1,4 @@
+Curve Name	Centre	Width	Height	% Gaussian	Type	Area	ChiSq
+Curve 1	117.209	5.02627	6764.02	60.0954	Mixed	43058.7	0.01207
+Curve 2	143.314	5.03693	6022.97	76.9239	Mixed	35837.7	
+Curve 3	149.479	4.5574	12500.6	80.8718	Mixed	66160.3	
