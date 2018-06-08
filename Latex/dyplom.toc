@@ -2,23 +2,23 @@
 \contentsline {section}{\numberline {1}W\IeC {\l }a\IeC {\'s}ciwo\IeC {\'s}ci}{2}
 \contentsline {subsection}{\numberline {1.1}Siarczek galu(II)}{2}
 \contentsline {subsection}{\numberline {1.2}Siarczek galu(III)}{3}
-\contentsline {section}{\numberline {2}Rozpraszanie Ramanowskie}{4}
-\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska}{4}
-\contentsline {subsection}{\numberline {2.2}Wgl\IeC {\k a}d matematyczny}{4}
-\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie Ramana}{5}
-\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska}{6}
-\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{6}
-\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{7}
-\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{8}
-\contentsline {section}{\numberline {3}Rozpraszanie Ramanowskie w ci\IeC {\k e}kich warstwach}{9}
-\contentsline {subsection}{\numberline {3.1}Fonony w materiale}{9}
-\contentsline {subsection}{\numberline {3.2}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma Ramanowskiego}{11}
-\contentsline {subsection}{\numberline {3.3}Piki ramanowskie w cienkich warstwach}{12}
-\contentsline {subsection}{\numberline {3.4}Rozpraszanie dwufononowe}{13}
-\contentsline {subsection}{\numberline {3.5}Dane dla pik\IeC {\'o}w ramanowskich GaP Ga2S3}{14}
-\contentsline {subsection}{\numberline {3.6}przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{14}
-\contentsline {section}{\numberline {4}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{15}
-\contentsline {section}{\numberline {5}Wyniki bada\IeC {\'n}}{16}
-\contentsline {section}{\numberline {6}Opracowanie wynik\IeC {\'o}w}{17}
-\contentsline {section}{\numberline {7}Podsumowanie}{18}
-\contentsline {section}{Bibliografia}{19}
+\contentsline {section}{\numberline {2}Rozpraszanie Ramanowskie}{5}
+\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska}{5}
+\contentsline {subsection}{\numberline {2.2}Wgl\IeC {\k a}d matematyczny}{5}
+\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie Ramana}{6}
+\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska}{7}
+\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{7}
+\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{8}
+\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{9}
+\contentsline {section}{\numberline {3}Rozpraszanie Ramanowskie w ci\IeC {\k e}kich warstwach}{10}
+\contentsline {subsection}{\numberline {3.1}Fonony w materiale}{10}
+\contentsline {subsection}{\numberline {3.2}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma Ramanowskiego}{12}
+\contentsline {subsection}{\numberline {3.3}Piki ramanowskie w cienkich warstwach}{13}
+\contentsline {subsection}{\numberline {3.4}Rozpraszanie dwufononowe}{14}
+\contentsline {subsection}{\numberline {3.5}Dane dla pik\IeC {\'o}w ramanowskich GaP Ga2S3}{15}
+\contentsline {subsection}{\numberline {3.6}przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{15}
+\contentsline {section}{\numberline {4}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{16}
+\contentsline {section}{\numberline {5}Wyniki bada\IeC {\'n}}{17}
+\contentsline {section}{\numberline {6}Opracowanie wynik\IeC {\'o}w}{18}
+\contentsline {section}{\numberline {7}Podsumowanie}{19}
+\contentsline {section}{Bibliografia}{20}
