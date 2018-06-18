@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  8 JUN 2018 07:58
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  8 JUN 2018 07:40
+>>>>>>> origin/master
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -692,38 +696,59 @@ Overfull \hbox (5.91406pt too wide) in paragraph at lines 37--38
 Ukªad ku-biczny grupa prze-strzenna $[]$. 
  []
 
+<<<<<<< HEAD
 
 Overfull \hbox (3.4812pt too wide) in paragraph at lines 44--48
 \T1/cmr/m/n/10.95 rz¡d-ko-wa-nie w pod-sieci ka-tio-no-wej po-wo-duje po-li-mor
 -fizm. [005-Ga2S3-1-s2.0-S0025540816307498-
  []
 
+=======
+>>>>>>> origin/master
 <Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png, id=29, 144.54pt x 118.64325
 pt>
 File: Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png Graphic file (type png)
 
 <use Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png  use
+<<<<<<< HEAD
 d on input line 54. on input line 54.
 Package pdftex.def Info: Requested size: 136.57462pt x 112.1112pt on input line
  54.
+=======
+d on input line 53. on input line 53.
+Package pdftex.def Info: Requested size: 136.57462pt x 112.1112pt on input line
+ 53.
+>>>>>>> origin/master
 <Images/Wlasciwosci/Ga2S3_View_Flux_Method.png, id=30, 157.7895pt x 131.89275pt
 >
 File: Images/Wlasciwosci/Ga2S3_View_Flux_Method.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3_View_Flux_Method.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_View_Flux_Method.png  used on
+<<<<<<< HEAD
  input line 57. on input line 57.
 Package pdftex.def Info: Requested size: 136.57462pt x 114.16412pt on input lin
 e 57.
+=======
+ input line 56. on input line 56.
+Package pdftex.def Info: Requested size: 136.57462pt x 114.16412pt on input lin
+e 56.
+>>>>>>> origin/master
 <Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png, id=31, 838.93425pt x 466.14
 15pt>
 File: Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png Graphic file (type png)
 
 <use Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png  use
+<<<<<<< HEAD
 d on input line 67. on input line 67.
 Package pdftex.def Info: Requested size: 273.14923pt x 151.77158pt on input lin
 e 67.
+=======
+d on input line 66. on input line 66.
+Package pdftex.def Info: Requested size: 273.14923pt x 151.77158pt on input lin
+e 66.
+>>>>>>> origin/master
 [3 <./Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png> <./Images/Wlasciwosci/
 Ga2S3_View_Flux_Method.png>]) (dyplom-Rozpraszanie-Ramanowskie.tex [4 <./Images
 /Wlasciwosci/Ga2S3_Schematic_Structure2.png>] [5]
@@ -857,7 +882,11 @@ public/cm-super/sfrm1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fo
 nts/type1/public/cm-super/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiK
 TeX/2.9/fonts/type1/public/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/R
 oaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfxc2488.pfb>
+<<<<<<< HEAD
 Output written on dyplom.pdf (21 pages, 1443053 bytes).
+=======
+Output written on dyplom.pdf (21 pages, 1443030 bytes).
+>>>>>>> origin/master
 PDF statistics:
  189 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
