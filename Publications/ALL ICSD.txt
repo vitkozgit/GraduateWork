@@ -1,0 +1,1479 @@
+*data for   ICSD #59
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   59
+Rec  Date   1980/01/01
+Mod  Date   2014/08/01
+Chem Name   Gallium Sulfide (1/1) - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.92
+Title       Refinement of the 2h (GaS)-beta-type
+Author(s)   Kuhn, A.;Chevy, A.;Chevalier, R.
+Reference   Acta Crystallographica B (24,1968-38,1982)
+            (1976), 32, 983-984
+Unit Cell   3.587(3) 3.587(3) 15.492(7) 90. 90. 120.
+Vol         172.62
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.089
+Red Cell    P  3.587 3.587 15.492 90 90 120 172.624
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    AE: Ga: 4t S3 Ga (Ga-Ga= 2.45); S: 3n Ga3
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-0009
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 30-576
+            Structure type prototype : GaS
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1710(1)      1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.6016(3)      1.         0    
+Lbl  Type   Beta11      Beta22      Beta33      Beta12      Beta13      Beta23
+Ga1  Ga2+  0.0126      0.0126      0.0007      0.0063      0           0           
+S1   S2-   0.0102      0.0102      0.0007      0.0051      0           0           
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.587 3.587 15.492 90 90 120
+Std. Vol.   172.62
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17100         1.        
+ S    1  -2    4 f   .33333      .66667      .60160         1.        
+*end for    ICSD #59
+
+
+*data for   ICSD #488
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   488
+Rec  Date   1980/01/01
+Mod  Date   2012/02/01
+Chem Name   Gallium Sulfide - Alpha
+Structured  Ga2 S3
+Sum         Ga2 S3
+ANX         A2X3
+D(calc)     3.67
+Title       Preparation et structure de Ga2 S3 alpha type wurtzite lacunaire
+Author(s)   Collin, G.;Flahaut, J.;Guittard, M.;Loireau-Lozach, A.
+Reference   Materials Research Bulletin
+            (1976), 11, 285-292
+Unit Cell   11.094(2) 9.578(2) 6.395(1) 90. 90. 141.15(1)
+Vol         426.25
+Z           4
+Space Group B 1 1 b
+SG Number   9
+Cryst Sys   monoclinic
+Pearson     mS20
+Wyckoff     a5
+R Value     0.058
+Red Cell    B  6.395 6.402 7.022 116.644 90 119.960 213.126
+Trans Red   0.000 0.000 -1.000 / 0.500 0.000 0.500 / -1.000 -1.000 0.000
+Comments    Sign of y(Ga2) corrected, superstructure of wurtzite-type 
+            with ordered Ga-vacancies, R(isotropic)=0.064
+            Cell in I11b setting: a'=7.007, gamma'=96.70
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-074-4878
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 48-1432
+            Temperature factors available 
+            Structure type : Ga2S3
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    4 a   0.3333      0.5         0.3176(3)      1.         0    
+ Ga   2  +3    4 a   0.1654(3)   -.0097(4)   0.1525(3)      1.         0    
+ S    1  -2    4 a   0.0902(7)   0.1152(8)   0.3427(6)      1.         0    
+ S    2  -2    4 a   0.9175(6)   0.6061(8)   0.1659(6)      1.         0    
+ S    3  -2    4 a   0.2633(8)   0.6308(10)  0.1644(7)      1.         0    
+Lbl  Type      B11         B22         B33         B12         B13         B23
+Ga1  Ga3+  0.13(3)     0.12(4)     0.11(3)     0.11(3)     -.03(2)     -.03(3)     
+Ga2  Ga3+  0.12(3)     0.11(4)     0.11(3)     0.10(3)     -.02(2)     -.03(2)     
+S1   S2-   0.12(4)     0.11(5)     0.11(4)     0.10(4)     -.03(3)     -.03(4)     
+S2   S2-   0.12(4)     0.12(5)     0.10(4)     0.09(4)     0.02(3)     -.02(3)     
+S3   S2-   0.16(5)     0.15(6)     0.11(4)     0.14(4)     0.05(3)     -.05(3)     
+Std. Notes  Transformation Method: Tidy
+            Multiple transformations possible, first one selected
+            REMARK Transformed from setting  B 1 1 b.
+            TRANS  -a,c,a+b     origin  .82490 1/4 .49030
+Std. Cell   11.094 6.395 7.022 90 121.173 90
+Std. Vol.   426.25
+Std. Z      4
+Std. SG     C1C1
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    4 a   .34180      .06760      .00970         1.        
+ Ga   2  +3    4 a   .00000      .09750      .00000         1.        
+ S    1  -2    4 a   .20010      .09270      .62490         1.        
+ S    2  -2    4 a   .36370      .41590      .11580         1.        
+ S    3  -2    4 a   .04260      .41440      .14050         1.        
+*end for    ICSD #488
+
+
+*data for   ICSD #25568
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   25568
+Rec  Date   1980/01/01
+Mod  Date   2009/02/01
+Chem Name   Gallium Sulfide (1.33/2) - Beta
+Structured  Ga1.33 S2
+Sum         Ga1.33 S2
+ANX         AX2
+D(calc)     3.67
+Title       Ueber die Kristallstrukturen von Ga2 S3, Ga2 Se3 und Ga2 Te3
+Author(s)   Hahn, H.;Klingler, W.
+Reference   Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)
+            (1949), 259, 135-142
+Unit Cell   3.685(5) 3.685(5) 6.028(6) 90. 90. 120.
+Vol         70.89
+Z           1
+Space Group P 63 m c
+SG Number   186
+Cryst Sys   hexagonal
+Pearson     hP3
+Wyckoff     b2
+Red Cell    P  3.685 3.685 6.028 90 90 120 70.889
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable above 823 K; A from kX
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-074-0145
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 48-1432
+            Structure type : Al1.3Se2
+            X-ray diffraction (powder) 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    2 b   0.3333      0.6666      0              0.665      0    
+ S    1  -2    2 b   0.3333      0.6666      0.375          1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.685 3.685 6.028 90 90 120
+Std. Vol.   70.89
+Std. Z      1
+Std. SG     P63MC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    2 b   .33333      .66667      .00000         .665      
+ S    1  -2    2 b   .33333      .66667      .37500         1.        
+*end for    ICSD #25568
+
+
+*data for   ICSD #25660
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   25660
+Rec  Date   1980/01/01
+Mod  Date   2009/08/01
+Chem Name   Gallium(II) Sulfide
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.92
+Title       Ueber die Kristallstruktur des Ga S
+Author(s)   Hahn, H.;Frank, G.
+Reference   Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)
+            (1955), 278, 340-348
+Unit Cell   3.585(5) 3.585(5) 15.50(1) 90. 90. 120.
+Vol         172.52
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.585 3.585 15.5 90 90 120 172.52
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-074-0227
+            Structure type : GaS
+            X-ray diffraction (powder) 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.17           1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.6            1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.585 3.585 15.5 90 90 120
+Std. Vol.   172.52
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17000         1.        
+ S    1  -2    4 f   .33333      .66667      .60000         1.        
+*end for    ICSD #25660
+
+
+*data for   ICSD #201344
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   201344
+Rec  Date   1982/12/31
+Chem Name   Gallium(II) Sulfide - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.91
+Title       Charge-density analysis of Ga S
+Author(s)   Kuhn, A.;Bourdon, A.;Rigoult, J.;Rimsky, A.
+Reference   Physical Review, Serie 3. B - Solid State (1,1970-17,1977)
+            (1982), 25, 4081-4088
+Unit Cell   3.592(1) 3.592(1) 15.465(3) 90. 90. 120.
+Vol         172.8
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.019
+Red Cell    P  3.592 3.592 15.465 90 90 120 172.804
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Electron structure calculation 
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-084-0498
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.17082(1)     1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.60191(2)     1.         0    
+Lbl  Type      U11         U22         U33         U12         U13         U23
+Ga1  Ga2+  0.00923(2)  0.00923(2)  0.01210(4)  0.00461     0           0           
+S1   S2-   0.00876(4)  0.00876(4)  0.01244(7)  0.00438     0           0           
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.592 3.592 15.465 90 90 120
+Std. Vol.   172.8
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17082         1.        
+ S    1  -2    4 f   .33333      .66667      .60191         1.        
+*end for    ICSD #201344
+
+
+*data for   ICSD #201345
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   201345
+Rec  Date   1982/12/31
+Chem Name   Gallium(II) Sulfide - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.91
+Title       Charge-density analysis of Ga S
+Author(s)   Kuhn, A.;Bourdon, A.;Rigoult, J.;Rimsky, A.
+Reference   Physical Review, Serie 3. B - Solid State (1,1970-17,1977)
+            (1982), 25, 4081-4088
+Unit Cell   3.592(1) 3.592(1) 15.465(3) 90. 90. 120.
+Vol         172.8
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.038
+Red Cell    P  3.592 3.592 15.465 90 90 120 172.804
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Electron structure calculation 
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-084-0499
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.17081(1)     1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.60190(2)     1.         0    
+Lbl  Type      U11         U22         U33         U12         U13         U23
+Ga1  Ga2+  0.00895(3)  0.00895(3)  0.01171(4)  0.00447     0           0           
+S1   S2-   0.00846(3)  0.00846(3)  0.01201(7)  0.00423     0           0           
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.592 3.592 15.465 90 90 120
+Std. Vol.   172.8
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17081         1.        
+ S    1  -2    4 f   .33333      .66667      .60190         1.        
+*end for    ICSD #201345
+
+
+*data for   ICSD #202408
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   202408
+Rec  Date   1988/05/17
+Mod  Date   1991/11/23
+Chem Name   Gallium Sulfide - Alpha
+Structured  Ga2 S3
+Sum         Ga2 S3
+ANX         A2X3
+D(calc)     3.69
+Title       Determination des structures des formes alpha and beta de Ga2 S3
+Author(s)   Tomas, A.;Pardo, M.P.;Guittard, M.;Guymont, M.;Famery, R.
+Reference   Materials Research Bulletin
+            (1987), 22, 1549-1554
+Unit Cell   6.385(1) 6.385(1) 18.040(1) 90. 90. 120.
+Vol         636.93
+Z           6
+Space Group P 61
+SG Number   169
+Cryst Sys   hexagonal
+Pearson     hP30
+Wyckoff     a6
+R Value     0.049
+Red Cell    P  6.385 6.385 18.04 90 90 120 636.926
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-084-1440
+            Temperature factors available 
+            Structure type : Al2S3
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(B)    
+ Ga   1  +3    6 a   -.008(1)    0.339(1)    0.1214(1)      1.         0         0.41(5)
+ Ga   2  +3    6 a   0.643(1)    0.655(2)    0.1247(1)      0.67(2)    0         0.58(5)
+ Ga   3  +3    6 a   0.303(2)    -.004(4)    0.1276(4)      0.35(1)    0        1.35(13)
+ S    1  -2    6 a   0.337(5)    -.007(6)    0              1.         0          0.9(1)
+ S    2  -2    6 a   0.671(7)    0.659(7)    -.0028(3)      1.         0        0.99(10)
+ S    3  -2    6 a   0.008(4)    0.325(5)    -.0055(3)      1.         0        0.83(10)
+Std. Notes  Transformation Method: Tidy
+            TRANS  y,x,-z
+Std. Cell   6.385 6.385 18.04 90 90 120
+Std. Vol.   636.93
+Std. Z      6
+Std. SG     P61
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    6 a   .00800      .34700      .21193         1.        
+ Ga   2  +3    6 a   .35700      .01200      .20863         .670      
+ Ga   3  +3    6 a   .30700      .00400      .53907         .350      
+ S    1  -2    6 a   .34400      .00700      .66667         1.        
+ S    2  -2    6 a   .34100      .32900      .50280         1.        
+ S    3  -2    6 a   .32500      .00800      .00550         1.        
+*end for    ICSD #202408
+
+
+*data for   ICSD #202409
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   202409
+Rec  Date   1988/05/17
+Mod  Date   2006/04/01
+Chem Name   Gallium Sulfide (1.33/2) - Beta
+Structured  (Ga2 S3)0.667
+Sum         Ga1.334 S2.001
+ANX         AX2
+D(calc)     3.69
+Title       Determination des structures des formes alpha and beta de Ga2 S3
+Author(s)   Tomas, A.;Pardo, M.P.;Guittard, M.;Guymont, M.;Famery, R.
+Reference   Materials Research Bulletin
+            (1987), 22, 1549-1554
+Unit Cell   3.682(1) 3.682(1) 6.031(1) 90. 90. 120.
+Vol         70.81
+Z           1
+Space Group P 63 m c
+SG Number   186
+Cryst Sys   hexagonal
+Pearson     hP3
+Wyckoff     b2
+R Value     0.049
+Red Cell    P  3.682 3.682 6.031 90 90 119.999 70.809
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-084-1441
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 48-1434
+            Temperature factors available 
+            Structure type : Al1.3Se2
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(B)    
+ Ga   1  +3    2 b   0.3333      0.6667      0              .667       0         1.15(4)
+ S    1  -2    2 b   0.3333      0.6667      0.376(1)       1.         0        1.06(10)
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.682 3.682 6.031 90 90 120
+Std. Vol.   70.81
+Std. Z      1
+Std. SG     P63MC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    2 b   .33333      .66667      .00000         .667      
+ S    1  -2    2 b   .33333      .66667      .37600         1.        
+*end for    ICSD #202409
+
+
+*data for   ICSD #40824
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   40824
+Rec  Date   2000/07/15
+Mod  Date   2007/08/01
+Chem Name   Gallium(II) Sulfide - Rhombohedral 3r
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.85
+Title       Sur une nouvelle form de Ga S, rhomboedrique 3R metastable formation 
+            et etude structurale
+Author(s)   Pardo, M.P.;Flahaut, J.
+Reference   Materials Research Bulletin
+            (1987), 22, 323-329
+Unit Cell   3.605 3.605 23.43 90. 90. 120.
+Vol         263.7
+Z           6
+Space Group R -3 m H
+SG Number   166
+Cryst Sys   trigonal/rhombohedral
+Pearson     hR4
+Wyckoff     c2
+R Value     0.058
+Red Cell    RH 3.605 3.605 8.082 77.114 77.114 60 87.901
+Trans Red   1.000 0.000 0.000 / 1.000 1.000 0.000 / 0.667 0.333 0.333
+Comments    2nd model (centric)
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-072-1231
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 30-576
+            Standard deviation missing in cell constants 
+            Structure type : PtTe
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    6 c   0           0           0.0527         1.         0    
+ S    1  -2    6 c   0           0           0.7656         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.605 3.605 23.43 90 90 120
+Std. Vol.   263.7
+Std. Z      6
+Std. SG     R3-MH
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    6 c   0           0           .05270         1.        
+ S    1  -2    6 c   0           0           .23440         1.        
+*end for    ICSD #40824
+
+
+*data for   ICSD #76753
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   76753
+Rec  Date   2001/07/16
+Chem Name   Gallium Sulfide (1.33/2) - Alpha
+Structured  Ga1.33 S2
+Sum         Ga1.33 S2
+ANX         A3X4
+D(calc)     3.75
+Title       Ueber die Kristallstrukturen von Ga2 S3, Ga2 Se3 und Ga2 Te3
+Author(s)   Hahn, H.;Klingler, W.
+Reference   Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)
+            (1949), 259, 135-142
+Unit Cell   5.181(4) 5.181 5.181 90. 90. 90.
+Vol         139.07
+Z           2
+Space Group F -4 3 m
+SG Number   216
+Cryst Sys   cubic
+Pearson     cF7
+Wyckoff     c a
+Red Cell    F  3.663 3.663 3.663 60 60 60 34.768
+Trans Red   0.500 0.500 0.000 / 0.000 0.500 0.500 / 0.500 0.000 0.500
+Comments    Stable below 823 K
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-089-7200
+            Structure type : Cu2HgI4(HT)
+            X-ray diffraction (powder) 
+            Unusual difference between calculated and measured density
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    4 a   0           0           0              0.667      0    
+ S    1  -2    4 c   0.25        0.25        0.25           1.         0    
+Std. Notes  Transformation Method: Tidy
+            Multiple transformations possible, first one selected
+Std. Cell   5.181 5.181 5.181 90 90 90
+Std. Vol.   139.07
+Std. Z      2
+Std. SG     F4-3M
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    4 a   0           0           0              .667      
+ S    1  -2    4 c   .25         .25         .25            1.        
+*end for    ICSD #76753
+
+
+*data for   ICSD #409550
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   409550
+Rec  Date   2002/10/01
+Mod  Date   2005/04/01
+Chem Name   Digallium Sulfide
+Structured  Ga2 S3
+Sum         Ga2 S3
+ANX         A2X3
+D(calc)     3.67
+Title       Refinement of the crystal structure of digallium trisulfide, Ga2 S3
+Author(s)   Jones, C.Y.;Bryan, J.C.;Kirschbaum, K.;Edwards, J.G.
+Reference   Zeitschrift fuer Kristallographie - New Crystal Structures
+            (2001), 216, 327-328
+Unit Cell   11.107(2) 6.395(1) 7.021(1) 90. 121.17(3) 90.
+Vol         426.7
+Z           4
+Space Group C 1 c 1
+SG Number   9
+Cryst Sys   monoclinic
+Pearson     mS20
+Wyckoff     a5
+R Value     0.035
+Red Cell    C  6.395 6.408 7.021 116.650 89.999 119.931 213.351
+Trans Red   0.000 -1.000 0.000 / 0.500 0.500 0.000 / 0.000 0.000 1.000
+Comments    Cell in I1c1-setting: a'= 9.588, beta'= 97.62
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-2672
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 76-752
+            Temperature in Kelvin: 294
+            Temperature factors available 
+            Structure type : Ga2S3
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    4 a   0.04213(8)  0.40234(19) 0.12512(11)    1.         0    
+ Ga   2  +3    4 a   0.20026(9)  0.93206(18) 0.11559(13)    1.         0    
+ S    1  -2    4 a   -.0050(3)   1.0861(4)   -.0162(6)      1.         0    
+ S    2  -2    4 a   0.3378(3)   0.9075(3)   0.4999(4)      1.         0    
+ S    3  -2    4 a   0.1741(3)   0.5840(3)   0.0084(4)      1.         0    
+Lbl  Type      U11         U22         U33         U12         U13         U23
+Ga1  Ga3+  0.0068(7)   0.0130(6)   0.0096(7)   0.0007(4)   0.0042(5)   0.0005(4)   
+Ga2  Ga3+  0.0065(7)   0.0133(6)   0.0102(7)   -.0003(4)   0.0045(5)   -.0012(4)   
+S1   S2-   0.0065(12)  0.0160(13)  0.0182(13)  -.0001(8)   0.0043(10)  -.0048(9)   
+S2   S2-   0.0041(12)  0.0153(12)  0.0098(15)  -.0009(8)   0.0036(11)  -.0019(8)   
+S3   S2-   0.0084(13)  0.0121(12)  0.0095(12)  -.0017(8)   0.0056(10)  -.0010(8)   
+Std. Notes  Transformation Method: Tidy
+            TRANS  -x,-y,-z     origin  .45787 0 .87488
+Std. Cell   11.107 6.395 7.021 90 121.17 90
+Std. Vol.   426.7
+Std. Z      4
+Std. SG     C1C1
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    4 a   .00000      .09766      .00000         1.        
+ Ga   2  +3    4 a   .34187      .06794      .00953         1.        
+ S    1  -2    4 a   .04713      .41390      .14132         1.        
+ S    2  -2    4 a   .20433      .09250      .62522         1.        
+ S    3  -2    4 a   .36803      .41600      .11672         1.        
+*end for    ICSD #409550
+
+
+*data for   ICSD #53586
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   53586
+Rec  Date   2003/04/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     4
+Title       Crystal structure of a new high pressure polymorph of Ga S
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44, 853-855
+Unit Cell   3.576(3) 3.576 15.26(3) 90. 90. 120.
+Vol         169
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.084
+Red Cell    P  3.576 3.576 15.26 90 90 120 168.997
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable below 3.0 GPa
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-4508
+            Pressure in MPa: 600
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1702         1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.6007         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.576 3.576 15.26 90 90 120
+Std. Vol.   169
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17020         1.        
+ S    1  -2    4 f   .33333      .66667      .60070         1.        
+*end for    ICSD #53586
+
+
+*data for   ICSD #53587
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   53587
+Rec  Date   2003/04/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.91
+Title       Crystal structure of a new high pressure polymorph of Ga S
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44, 853-855
+Unit Cell   3.585(4) 3.585 15.53(4) 90. 90. 120.
+Vol         172.85
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.097
+Red Cell    P  3.585 3.585 15.53 90 90 120 172.854
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable below 3.0 GPa
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-4509
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 48-1435
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1714         1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.6035         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.585 3.585 15.53 90 90 120
+Std. Vol.   172.85
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17140         1.        
+ S    1  -2    4 f   .33333      .66667      .60350         1.        
+*end for    ICSD #53587
+
+
+*data for   ICSD #53588
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   53588
+Rec  Date   2003/04/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     4.49
+Title       Crystal structure of a new high pressure polymorph of Ga S
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44, 853-855
+Unit Cell   3.495(2) 3.495 14.23(4) 90. 90. 120.
+Vol         150.53
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.085
+Red Cell    P  3.495 3.495 14.23 90 90 120 150.532
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable above 3.0 GPa
+            Cell at 5.8 GPa: 3.504, 14.29, z(Ga,S)=.1661, .5921, 
+            R=0.092
+            Pressure in MPa: 6500
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1662         1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.5941         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.495 3.495 14.23 90 90 120
+Std. Vol.   150.53
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .16620         1.        
+ S    1  -2    4 f   .33333      .66667      .59410         1.        
+*end for    ICSD #53588
+
+
+*data for   ICSD #53589
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   53589
+Rec  Date   2003/04/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     4.21
+Title       Crystal structure of a new high pressure polymorph of Ga S
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44, 853-855
+Unit Cell   3.547(3) 3.547 14.74(2) 90. 90. 120.
+Vol         160.6
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.063
+Red Cell    P  3.547 3.547 14.74 90 90 119.999 160.602
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable above 3.0 GPa
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-4510
+            Pressure in MPa: 3000
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1677         1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.5980         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.547 3.547 14.74 90 90 120
+Std. Vol.   160.6
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .16770         1.        
+ S    1  -2    4 f   .33333      .66667      .59800         1.        
+*end for    ICSD #53589
+
+
+*data for   ICSD #53590
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   53590
+Rec  Date   2003/04/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     4.37
+Title       Crystal structure of a new high pressure polymorph of Ga S
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44, 853-855
+Unit Cell   3.521(2) 3.521 14.42(2) 90. 90. 120.
+Vol         154.82
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.077
+Red Cell    P  3.521 3.521 14.42 90 90 119.999 154.82
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Stable above 3.0 GPa
+            The structure has been assigned a PDF number (calculated 
+            powder diffraction data): 01-071-4511
+            Pressure in MPa: 5000
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1667         1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.5949         1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.521 3.521 14.42 90 90 120
+Std. Vol.   154.82
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .16670         1.        
+ S    1  -2    4 f   .33333      .66667      .59490         1.        
+*end for    ICSD #53590
+
+
+*data for   ICSD #34647
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   34647
+Rec  Date   1980/01/01
+Mod  Date   2012/02/01
+Chem Name   Gallium Sulfide - Alpha
+Structured  Ga2 S3
+Sum         Ga2 S3
+ANX         A2X3
+D(calc)     3.64
+Title       The crystal structure of alpha-Ga2 S3
+Author(s)   Goodyear, J.;Steigmann, G.A.
+Reference   Acta Crystallographica (1,1948-23,1967)
+            (1963), 16, 946-949
+Unit Cell   11.14 6.411 7.038 90. 121.22 90.
+Vol         429.85
+Z           4
+Space Group C 1 c 1
+SG Number   9
+Cryst Sys   monoclinic
+Pearson     mS20
+Wyckoff     a5
+R Value     0.13
+Red Cell    C  6.411 6.426 7.038 116.695 89.999 119.920 214.926
+Trans Red   0.000 -1.000 0.000 / 0.500 0.500 0.000 / 0.000 0.000 1.000
+Comments    Cell in I1c1-setting: a'=9.610, beta'=97.55
+            AE: Ga1,2: 4t S4; S1: 2n Ga2; S2,3: 3n Ga3
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 76-752
+            Standard deviation missing in cell constants 
+            Structure type prototype : Ga2S3
+            Temperature factors available 
+            Structure type : Ga2S3
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(B)    
+ Ga   1  +3    4 a   0.043(1)    0.400(2)    0.130(2)       1.         0            1.17
+ Ga   2  +3    4 a   0.204(1)    0.935(2)    0.120(2)       1.         0            0.52
+ S    1  -2    4 a   -.002(2)    0.081(5)    -.017(4)       1.         0            1.33
+ S    2  -2    4 a   0.177(1)    0.580(3)    0.012(3)       1.         0            0.62
+ S    3  -2    4 a   0.339(2)    0.090(6)    0.004(5)       1.         0            1.35
+Std. Notes  Transformation Method: Tidy
+            TRANS  -x,-y,-z     origin  .32300 0 .48800
+Std. Cell   11.14 6.411 7.038 90 121.22 90
+Std. Vol.   429.85
+Std. Z      4
+Std. SG     C1C1
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    4 a   .13400      .10000      .38200         1.        
+ Ga   2  +3    4 a   .47300      .06500      .39200         1.        
+ S    1  -2    4 a   .17900      .58100      .02900         1.        
+ S    2  -2    4 a   .00000      .08000      .00000         1.        
+ S    3  -2    4 a   .33800      .09000      .00800         1.        
+*end for    ICSD #34647
+
+
+*data for   ICSD #601919
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   601919
+Rec  Date   2010/02/01
+Chem Name   Gallium Sulfide (1.34/2)
+Structured  Ga1.34 S2
+Sum         Ga1.34 S2
+ANX         AX2
+D(calc)     3.71
+Title       The gallium sulfide-silver sulfide system. Phase diagram. 
+            Crystallographic study and ionic conductivity of silver gallium 
+            sulfide (Ag9 Ga S6)
+Author(s)   Guittard, M.;Carcaly, C.;Kabre, T.S.;Fourcroy, P.H.;Flahaut, J.
+Reference   Annales de Chimie (Paris) (Vol=Year)
+            (1983), 8(3), 215-225
+Unit Cell   3.68 3.68 6.02 90.0 90.0 120.0
+Vol         70.6
+Z           1
+Space Group P 63 m c
+SG Number   186
+Cryst Sys   hexagonal
+Pearson     hP3
+Wyckoff     b2
+Red Cell    P  3.68 3.68 6.02 90 90 120 70.603
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Atom positions from 202409, not refined
+            Analytical formula = idealized formula
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga2 S3 (z = 0.800) P63MC
+            Metals structure type S Zn
+            Standard deviation missing in cell constants 
+            Structure type : Al1.3Se2
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    2 b   0.3333      0.6667      0              .67        0    
+ S    1  -2    2 b   0.3333      0.6667      0.376          1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.68 3.68 6.02 90 90 120
+Std. Vol.   70.6
+Std. Z      1
+Std. SG     P63MC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    2 b   .33333      .66667      .00000         .670      
+ S    1  -2    2 b   .33333      .66667      .37600         1.        
+*end for    ICSD #601919
+
+
+*data for   ICSD #635243
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635243
+Rec  Date   2012/08/01
+Chem Name   Gallium Sulfide (2/3)
+Structured  Ga2 S3
+Sum         Ga2 S3
+ANX         A2X3
+D(calc)     3.68
+Title       New single-crystalline phases in the system Ga2 S3 - In2 S3
+Author(s)   Kraemer, V.;Nitsche, R.;Ottemann, J.
+Reference   Journal of Crystal Growth
+            (1970), 7, 285-289
+Unit Cell   11.04 6.42 7.02 90.0 121.2 90.0
+Vol         425.59
+Z           4
+Space Group C 1 c 1
+SG Number   9
+Cryst Sys   monoclinic
+Pearson     mS20
+Wyckoff     a5
+Red Cell    C  6.385 6.385 7.02 63.396 63.396 60.357 212.795
+Trans Red   -0.500 0.500 0.000 / -0.500 -0.500 0.000 / 0.000 0.000 1.000
+Comments    Structure type assigned by the editor
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga2 S3 (z = 4) CC
+            Metals structure type Ga2 S3
+            Standard deviation missing in cell constants 
+            Structure type : Ga2S3
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    4 a   0.043       0.400       0.130          1.         0    
+ Ga   2  +3    4 a   0.204       0.935       0.120          1.         0    
+ S    1  -2    4 a   -.002       0.081       -.017          1.         0    
+ S    2  -2    4 a   0.177       0.580       0.012          1.         0    
+ S    3  -2    4 a   0.339       0.090       0.004          1.         0    
+Std. Notes  Transformation Method: Tidy
+            TRANS  -x,-y,-z     origin  .32300 0 .48800
+Std. Cell   11.04 6.42 7.02 90 121.2 90
+Std. Vol.   425.59
+Std. Z      4
+Std. SG     C1C1
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    4 a   .13400      .10000      .38200         1.        
+ Ga   2  +3    4 a   .47300      .06500      .39200         1.        
+ S    1  -2    4 a   .17900      .58100      .02900         1.        
+ S    2  -2    4 a   .00000      .08000      .00000         1.        
+ S    3  -2    4 a   .33800      .09000      .00800         1.        
+*end for    ICSD #635243
+
+
+*data for   ICSD #635244
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635244
+Rec  Date   2012/08/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.92
+Title       Structural studies of compounds in the series Ga Sx Se (1-x) (0 <= x 
+            <= 1) grown by iodine vapour transport
+Author(s)   Whitehouse, C.R.;Balchin, A.A.
+Reference   Journal of Materials Science
+            (1978), 13, 2394-2402
+            Journal of Solid State Chemistry
+            (1982), 41, 97-103
+Unit Cell   3.586(2) 3.586(2) 15.498(8) 90.0 90.0 120.0
+Vol         172.59
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.586 3.586 15.498 90 90 120 172.594
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Structure type assigned by the editor
+            Atom positions from 59, not refined
+            Cell from 2nd ref. (Terhell et al.): 3.587, 15.500
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga S (z = 4) P63/MMC
+            Metals Sdata Record: INT= film; RAD= Cu; APP= Debye-
+            Scherrer
+            Metals structure type Ga S
+            Structure type : GaS
+            X-ray diffraction (powder) 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      .171           1.         0    
+ S    1  -2    4 f   0.3333      0.6667      .602           1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.586 3.586 15.498 90 90 120
+Std. Vol.   172.59
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17100         1.        
+ S    1  -2    4 f   .33333      .66667      .60200         1.        
+*end for    ICSD #635244
+
+
+*data for   ICSD #635246
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635246
+Rec  Date   2012/08/01
+Chem Name   Gallium Sulfide (2/3)
+Structured  Ga1.33 S2
+Sum         Ga1.33 S2
+ANX         AX2
+D(calc)     3.69
+Title       SYSTEME Ga2S3-PbS DIAGRAMME DE PHASE, ETUDE CRISTALLOGRAPHIQUE
+Author(s)   Chilouet, A.;Mazurier, A.;Guittard, M.
+Reference   Materials Research Bulletin
+            (1979), 14, 1119-1124
+Unit Cell   3.68 3.68 6.02 90.0 90.0 120.0
+Vol         70.6
+Z           1
+Space Group P 63 m c
+SG Number   186
+Cryst Sys   hexagonal
+Pearson     hP3
+Wyckoff     b2
+Red Cell    P  3.68 3.68 6.02 90 90 120 70.603
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga2 S3 (z = 1) P63MC
+            Metals Sdata Record: INT= count
+            Metals structure type Ga2 S3
+            Metals Concordant Cross Reference to Crystal Data 2H-
+            2.8340, 2H-1.6358
+            The structure has been assigned a PDF number (experimental 
+            powder diffraction data): 16-500
+            Standard deviation missing in cell constants 
+            Metals Concordant Cross Reference to Structure Report 12-
+            178, 12-177
+            Structure type : Al1.3Se2
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +3    2 b   0.3333      0.6667      0              0.667      0    
+ S    1  -2    2 b   0.3333      0.6667      0.375          1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.68 3.68 6.02 90 90 120
+Std. Vol.   70.6
+Std. Z      1
+Std. SG     P63MC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +3    2 b   .33333      .66667      .00000         .667      
+ S    1  -2    2 b   .33333      .66667      .37500         1.        
+*end for    ICSD #635246
+
+
+*data for   ICSD #635251
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635251
+Rec  Date   2012/08/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.89
+Title       Electron diffraction study of melt-and vapour-grown Ga Se1-x Sx 
+            single crystals
+Author(s)   Arancia, G.;Grandolfo, M.;Manfredotti, C.;Rizzo, A.
+Reference   Physica Status Solidi A - Applications and Materials
+            (1976), 33, 563-571
+Unit Cell   3.593(5) 3.593(5) 15.54(2) 90.0 90.0 120.0
+Vol         173.74
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.593 3.593 15.54 90 90 120 173.738
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Structure type assigned by the editor
+            Atom positions from 59, not refined
+            Other cell reported: 3.596, 15.55
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Electron diffraction (single crystal) 
+            Metals formula record: Ga S (z = 4) P63/MMC
+            Metals Sdata Record: INT= count; RAD= e; APP= 
+            diffractometer
+            Metals structure type Ga S
+            Structure type : GaS
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      .171           1.         0    
+ S    1  -2    4 f   0.3333      0.6667      .602           1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.593 3.593 15.54 90 90 120
+Std. Vol.   173.74
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17100         1.        
+ S    1  -2    4 f   .33333      .66667      .60200         1.        
+*end for    ICSD #635251
+
+
+*data for   ICSD #635254
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635254
+Rec  Date   2008/08/01
+Mod  Date   2012/02/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     4.45
+Title       Crystal structure of a new high pressure polymorph of GaS
+Author(s)   d'Amour, H.;Holzapfel, W.B.;Polian, A.;Chevy, A.
+Reference   Solid State Communications
+            (1982), 44(6), 853-855
+Unit Cell   3.504(1) 3.504(1) 14.29(1) 90.0 90.0 120.0
+Vol         151.95
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f e
+R Value     0.092
+Red Cell    P  3.504 3.504 14.29 90 90 120 151.947
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    AE: Ga: 4t S3 Ga; S: 3n Ga3
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga S (z = 4) P63/MMC
+            Metals Sdata Record: INT= count; RAD= Mo; APP= 
+            diffractometer
+            Metals structure type Ga S
+            Pressure in MPa: 5800
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H        ITF(B)    
+ Ga   1  +2    4 e   0           0           0.1661         1          0             1.1
+ S    1  -2    4 f   0.3333      0.6667      0.5921         1          0              .8
+Std. Notes  Transformation Method: Tidy
+            TRANS  Origin  0 0 1/2
+Std. Cell   3.504 3.504 14.29 90 90 120
+Std. Vol.   151.95
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 e   0           0           .16610         1.        
+ S    1  -2    4 f   .33333      .66667      .09210         1.        
+*end for    ICSD #635254
+
+
+*data for   ICSD #635259
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   635259
+Rec  Date   2008/08/01
+Chem Name   Gallium Sulfide (1.34/2)
+Structured  (Ga2 S3)0.667
+Sum         Ga1.334 S2.001
+ANX         NO2
+D(calc)     3.7
+Title       Untersuchungen ueber ternaere Chalkogenide. III. Ueber die Struktur 
+            des Zn Cr2 Se4 und Cd Cr2 Se4
+Author(s)   Hahn, H.;Klingler, W.
+Reference   Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)
+            (1949), 259, 135-142
+Unit Cell   3.678(5) 3.678(5) 6.016(6) 90.0 90.0 120.0
+Vol         70.48
+Z           1
+Space Group P 63 m c
+SG Number   186
+Cryst Sys   hexagonal
+Pearson     hP3
+Wyckoff     b2
+Red Cell    P  3.678 3.678 6.016 90 90 120 70.479
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga2 S3 (z = 0.800) P63MC
+            Metals Sdata Record: REF= 20; INT= film; RAD= Cu; APP= 
+            Debye-Scherrer; D= r,i,c
+            Metals structure type S Zn
+            Structure type : Al1.3Se2
+            X-ray diffraction (powder) 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +0    2 b   0.3333      0.6667      0.000          0.67       0    
+ S    1  +0    2 b   0.3333      0.6667      0.375          1          0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.678 3.678 6.016 90 90 120
+Std. Vol.   70.48
+Std. Z      1
+Std. SG     P63MC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +0    2 b   .33333      .66667      .00000         .670      
+ S    1  +0    2 b   .33333      .66667      .37500         1.        
+*end for    ICSD #635259
+
+
+*data for   ICSD #654685
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   654685
+Rec  Date   2008/08/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         NO
+D(calc)     3.92
+Title       Ueber die Kristallstruktur des Ga S
+Author(s)   Hahn, H.;Frank, G.
+Reference   Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)
+            (1955), 278, 340-348
+Unit Cell   3.585 3.585 15.50 90.0 90.0 120.0
+Vol         172.52
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.585 3.585 15.5 90 90 120 172.52
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga S (z = 4) P63/MMC
+            Metals Sdata Record: INT= film; RAD= Cu; APP= rotation; D= 
+            r,i
+            Standard deviation missing in cell constants 
+            Structure type : GaS
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +0    4 f   0.3333      0.6667      0.17           1          0    
+ S    1  +0    4 f   0.3333      0.6667      0.60           1          0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.585 3.585 15.5 90 90 120
+Std. Vol.   172.52
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +0    4 f   .33333      .66667      .17000         1.        
+ S    1  +0    4 f   .33333      .66667      .60000         1.        
+*end for    ICSD #654685
+
+
+*data for   ICSD #658768
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   658768
+Rec  Date   2012/08/01
+Chem Name   Gallium Sulfide (1/1)
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.9
+Title       The Bi2Te3-Ga system
+Author(s)   Safarov, M.G.
+Reference   Russian Journal of Inorganic Chemistry
+            (1994), 39(7), 1170-1172
+Unit Cell   3.585 3.585 15.58 90.0 90.0 120.0
+Vol         173.41
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.585 3.585 15.58 90 90 120 173.411
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Atom positions from 59, not refined
+            Cell and Type only determined by the author(s). Coordinates 
+            estimated by the editor in analogy to isotypic compounds. 
+            Metals formula record: Ga S (z = 4) P63/MMC
+            Metals Sdata Record: INT= count; RAD= Cu; APP= 
+            diffractometer
+            Metals structure type Ga S
+            Standard deviation missing in cell constants 
+            Structure type : GaS
+            X-ray diffraction (powder) 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      .171           1.         0    
+ S    1  -2    4 f   0.3333      0.6667      .602           1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.585 3.585 15.58 90 90 120
+Std. Vol.   173.41
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17100         1.        
+ S    1  -2    4 f   .33333      .66667      .60200         1.        
+*end for    ICSD #658768
+
+
+*data for   ICSD #173940
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   173940
+Rec  Date   2010/02/01
+Chem Name   Gallium(II) Sulfide - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.91
+Title       Charge-density analysis of Ga S
+Author(s)   Kuhn, A.;Bourdon, A.;Rigoult, J.;Rimsky, A.
+Reference   Physical Review, Serie 3. B - Condensed Matter (18,1978-)
+            (1982), 25(6), 4081-4088
+Unit Cell   3.592(1) 3.592(1) 15.465(3) 90. 90. 120.
+Vol         172.8
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.024
+Red Cell    P  3.592 3.592 15.465 90 90 120 172.804
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Refinement I, sin(theta)/lambda range 0.0-1.26/A
+            Electron structure calculation 
+            Temperature in Kelvin: 293
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.17082(1)     1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.60191(2)     1.         0    
+Lbl  Type      U11         U22         U33         U12         U13         U23
+Ga1  Ga2+  0.00923(1)  0.00923(1)  0.01210(4)  0.00462     0           0           
+S1   S2-   0.00876(4)  0.00876(4)  0.01244(7)  0.00438     0           0           
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.592 3.592 15.465 90 90 120
+Std. Vol.   172.8
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17082         1.        
+ S    1  -2    4 f   .33333      .66667      .60191         1.        
+*end for    ICSD #173940
+
+
+*data for   ICSD #173941
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   173941
+Rec  Date   2010/02/01
+Chem Name   Gallium(II) Sulfide - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.91
+Title       Charge-density analysis of Ga S
+Author(s)   Kuhn, A.;Bourdon, A.;Rigoult, J.;Rimsky, A.
+Reference   Physical Review, Serie 3. B - Condensed Matter (18,1978-)
+            (1982), 25(6), 4081-4088
+Unit Cell   3.592(1) 3.592(1) 15.465(3) 90. 90. 120.
+Vol         172.8
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+R Value     0.024
+Red Cell    P  3.592 3.592 15.465 90 90 120 172.804
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Refinement II, sin(theta)/lambda range 0.70-1.26/A
+            Electron structure calculation 
+            Temperature in Kelvin: 293
+            Temperature factors available 
+            Structure type : GaS
+            X-ray diffraction from single crystal 
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.17081(1)     1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.60190(2)     1.         0    
+Lbl  Type      U11         U22         U33         U12         U13         U23
+Ga1  Ga2+  0.00895(3)  0.00895(3)  0.01171(4)  0.00448     0           0           
+S1   S2-   0.00846(5)  0.00846(5)  0.01201(7)  0.00423     0           0           
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.592 3.592 15.465 90 90 120
+Std. Vol.   172.8
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17081         1.        
+ S    1  -2    4 f   .33333      .66667      .60190         1.        
+*end for    ICSD #173941
+
+
+*data for   ICSD #167394
+CopyRight   ©2015 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+            Commerce on behalf of the United States.  All rights reserved.
+Coll Code   167394
+Rec  Date   2011/02/01
+Chem Name   Gallium Sulfide (1/1) - Beta
+Structured  Ga S
+Sum         Ga1 S1
+ANX         AX
+D(calc)     3.92
+Title       Interatomic distances in Ga Sex S1-x
+Author(s)   Kuhn, A.;Chevy, A.;Chevalier, R.
+Reference   Physica Status Solidi A - Applications and Materials
+            (1976), 36, 181-187
+Unit Cell   3.587(3) 3.587(3) 15.492(7) 90. 90. 120.
+Vol         172.62
+Z           4
+Space Group P 63/m m c
+SG Number   194
+Cryst Sys   hexagonal
+Pearson     hP8
+Wyckoff     f2
+Red Cell    P  3.587 3.587 15.492 90 90 120 172.624
+Trans Red   1.000 0.000 0.000 / 0.000 1.000 0.000 / 0.000 0.000 1.000
+Comments    Structure type : GaS
+            X-ray diffraction from single crystal 
+            No R value given in the paper.
+            At least one temperature factor missing in the paper.
+Atom  #   OX   SITE      x           y           z           SOF      H 
+ Ga   1  +2    4 f   0.3333      0.6667      0.1710(1)      1.         0    
+ S    1  -2    4 f   0.3333      0.6667      0.6016(3)      1.         0    
+Std. Notes  Transformation Method: Tidy
+Std. Cell   3.587 3.587 15.492 90 90 120
+Std. Vol.   172.62
+Std. Z      4
+Std. SG     P63/MMC
+Std. Atom
+Atom  #   OX   SITE      x           y           z           SOF     
+ Ga   1  +2    4 f   .33333      .66667      .17100         1.        
+ S    1  -2    4 f   .33333      .66667      .60160         1.        
+*end for    ICSD #167394
+
+
