@@ -1,4 +1,4 @@
-\select@language {polish}
+\babel@toc {polish}{}
 \contentsline {section}{\numberline {1}W\IeC {\l }a\IeC {\'s}ciwo\IeC {\'s}ci}{7}
 \contentsline {subsection}{\numberline {1.1}Siarczek galu}{7}
 \contentsline {subsection}{\numberline {1.2}Zastosowania $\mathbf {Ga_{2}S_{3}}$}{9}
@@ -17,7 +17,8 @@
 \contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{22}
 \contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{23}
 \contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{23}
-\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{24}
-\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{25}
-\contentsline {section}{\numberline {6}Podsumowanie}{26}
-\contentsline {section}{Bibliografia}{27}
+\contentsline {subsection}{\numberline {3.2}Technologia wzrostu kryszta\IeC {\l }k\IeC {\'o}w}{24}
+\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{25}
+\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{26}
+\contentsline {section}{\numberline {6}Podsumowanie}{27}
+\contentsline {section}{Bibliografia}{28}
