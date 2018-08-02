@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  20 JUN 2018 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  1 AUG 2018 21:45
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -660,206 +660,213 @@ Package pdftex.def Info: Requested size: 273.14923pt x 60.40814pt on input line
  [1
 
 {C:/Users/Overshadow/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imag
-es/logo2.png>]) (dyplom.toc)
+es/logo2.png>]) (dyplom-streszczenie.tex [1] [2] [3]
+[4] [5]) (dyplom.toc)
 \tf@toc=\write3
 \openout3 = `dyplom.toc'.
 
- (dyplom-wlasciwosci.tex
-[1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ (dyplom-wlasciwosci.tex [6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
-
-Overfull \hbox (14.54456pt too wide) in paragraph at lines 11--13
-$[]$ \T1/cmr/m/n/10.95 two-rzy bez-barwne lub »óªte krysz-taªki ukªadu hek-sa-g
-o-nal-nego, grupa prze-strzenna $[]$.
- []
-
-<Images/Wlasciwosci/GaS_Schematic_Structure.png, id=19, 216.20775pt x 316.7835p
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+<Images/Wlasciwosci/GaS_Schematic_Structure.png, id=36, 216.20775pt x 316.7835p
 t>
 File: Images/Wlasciwosci/GaS_Schematic_Structure.png Graphic file (type png)
 <use Images/Wlasciwosci/GaS_Schematic_Structure.png>
 Package pdftex.def Info: Images/Wlasciwosci/GaS_Schematic_Structure.png  used o
-n input line 15. on input line 15.
-Package pdftex.def Info: Requested size: 227.62206pt x 333.5122pt on input line
- 15.
-[2 <./Images/Wlasciwosci/GaS_Schematic_Structure.png>]
-Overfull \hbox (5.91406pt too wide) in paragraph at lines 40--41
-[]\T1/cmr/m/n/10.95 1) Ni-sko-tem-pe-ra-tu-rowa. Krysz-taªki bia-ªego ko-loru. 
-Ukªad ku-biczny grupa prze-strzenna $[]$. 
- []
-
-
-Overfull \hbox (3.4812pt too wide) in paragraph at lines 52--56
-\T1/cmr/m/n/10.95 rz¡d-ko-wa-nie w pod-sieci ka-tio-no-wej po-wo-duje po-li-mor
--fizm. [005-Ga2S3-1-s2.0-S0025540816307498-
- []
-
-<Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png, id=29, 144.54pt x 118.64325
+n input line 23. on input line 23.
+Package pdftex.def Info: Requested size: 159.33821pt x 233.45903pt on input lin
+e 23.
+ [7 <./Images/Wlasciwosci/GaS_Schematic_Structure.png>]
+<Images/Wlasciwosci/Przekroj_Ga2S3.png, id=46, 522.15076pt x 211.992pt>
+File: Images/Wlasciwosci/Przekroj_Ga2S3.png Graphic file (type png)
+<use Images/Wlasciwosci/Przekroj_Ga2S3.png>
+Package pdftex.def Info: Images/Wlasciwosci/Przekroj_Ga2S3.png  used on input l
+ine 41. on input line 41.
+Package pdftex.def Info: Requested size: 455.24411pt x 184.83588pt on input lin
+e 41.
+ [8 <./Images/Wlasciwosci/Przekroj_Ga2S3.png>]
+<Images/Wlasciwosci/SEM_Ga2S3.png, id=53, 589.60275pt x 233.07076pt>
+File: Images/Wlasciwosci/SEM_Ga2S3.png Graphic file (type png)
+<use Images/Wlasciwosci/SEM_Ga2S3.png>
+Package pdftex.def Info: Images/Wlasciwosci/SEM_Ga2S3.png  used on input line 5
+6. on input line 56.
+Package pdftex.def Info: Requested size: 455.24411pt x 179.95937pt on input lin
+e 56.
+<Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png, id=54, 356.532pt x 216.81pt>
+File: Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png Graphic file (type png)
+<use Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png>
+Package pdftex.def Info: Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png  used on 
+input line 71. on input line 71.
+Package pdftex.def Info: Requested size: 364.19667pt x 221.48732pt on input lin
+e 71.
+ [9 <./Images/Wlasciwosci/SEM_Ga2S3.png>]
+<Images/Wlasciwosci/Raman-Ga2S3.png, id=59, 611.28375pt x 334.24875pt>
+File: Images/Wlasciwosci/Raman-Ga2S3.png Graphic file (type png)
+<use Images/Wlasciwosci/Raman-Ga2S3.png>
+Package pdftex.def Info: Images/Wlasciwosci/Raman-Ga2S3.png  used on input line
+ 87. on input line 87.
+Package pdftex.def Info: Requested size: 386.96027pt x 211.58766pt on input lin
+e 87.
+ [10 <./Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png>]
+<Images/Wlasciwosci/Spectre-polarization-Ga2S3.png, id=64, 368.577pt x 280.6485
 pt>
-File: Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png Graphic file (type png)
+File: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png Graphic file (type png)
 
-<use Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png>
-Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png  use
-d on input line 62. on input line 62.
-Package pdftex.def Info: Requested size: 136.57462pt x 112.1112pt on input line
- 62.
-<Images/Wlasciwosci/Ga2S3_View_Flux_Method.png, id=30, 157.7895pt x 131.89275pt
->
-File: Images/Wlasciwosci/Ga2S3_View_Flux_Method.png Graphic file (type png)
-<use Images/Wlasciwosci/Ga2S3_View_Flux_Method.png>
-Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_View_Flux_Method.png  used on
- input line 65. on input line 65.
-Package pdftex.def Info: Requested size: 136.57462pt x 114.16412pt on input lin
-e 65.
-<Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png, id=31, 838.93425pt x 466.14
-15pt>
-File: Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png Graphic file (type png)
-
-<use Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png>
-Package pdftex.def Info: Images/Wlasciwosci/Ga2S3_Schematic_Structure2.png  use
-d on input line 75. on input line 75.
-Package pdftex.def Info: Requested size: 273.14923pt x 151.77158pt on input lin
-e 75.
-[3 <./Images/Wlasciwosci/Ga2S3_View_Bridgman_Method.png> <./Images/Wlasciwosci/
-Ga2S3_View_Flux_Method.png>]) (dyplom-Rozpraszanie-Ramanowskie.tex [4 <./Images
-/Wlasciwosci/Ga2S3_Schematic_Structure2.png>] [5]
-<Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png, id=48, 419.76
+<use Images/Wlasciwosci/Spectre-polarization-Ga2S3.png>
+Package pdftex.def Info: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png  use
+d on input line 96. on input line 96.
+Package pdftex.def Info: Requested size: 364.19667pt x 277.32042pt on input lin
+e 96.
+ [11 <./Images/Wlasciwosci/Raman-Ga2S3.png> <./Images/Wlasciwosci/Spectre-polar
+ization-Ga2S3.png>]) (dyplom-Rozpraszanie-Ramanowskie.tex
+[12] [13]
+<Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png, id=78, 419.76
 825pt x 222.8325pt>
 File: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanows
-kiego.png  used on input line 65. on input line 65.
+kiego.png  used on input line 67. on input line 67.
 Package pdftex.def Info: Requested size: 455.24411pt x 241.67215pt on input lin
-e 65.
- [6 <./Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>]
-<Images/Rozpraszanie-Ramanowskie/Raman-Energy.png, id=55, 615.4995pt x 303.534p
+e 67.
+ [14 <./Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>]
+<Images/Rozpraszanie-Ramanowskie/Raman-Energy.png, id=84, 615.4995pt x 303.534p
 t>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png  used
- on input line 85. on input line 85.
+ on input line 87. on input line 87.
 Package pdftex.def Info: Requested size: 455.24411pt x 224.51437pt on input lin
-e 85.
-<Images/Rozpraszanie-Ramanowskie/Point-Dipol.png, id=56, 398.6895pt x 314.3745p
+e 87.
+ [15 <./Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>]
+<Images/Rozpraszanie-Ramanowskie/Point-Dipol.png, id=89, 398.6895pt x 314.3745p
 t>
 File: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Point-Dipol.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png  used 
-on input line 107. on input line 107.
+on input line 109. on input line 109.
 Package pdftex.def Info: Requested size: 273.14923pt x 215.38359pt on input lin
-e 107.
- [7 <./Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>] [8 <./Images/Rozprasz
-anie-Ramanowskie/Point-Dipol.png>]
-<Images/Rozpraszanie-Ramanowskie/Raman-Shift.png, id=65, 673.3155pt x 434.8245p
+e 109.
+ [16 <./Images/Rozpraszanie-Ramanowskie/Point-Dipol.png>]
+<Images/Rozpraszanie-Ramanowskie/Raman-Shift.png, id=94, 673.3155pt x 434.8245p
 t>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png  used 
-on input line 134. on input line 134.
+on input line 136. on input line 136.
 Package pdftex.def Info: Requested size: 364.19667pt x 235.19318pt on input lin
-e 134.
-)
-(dyplom-Rozpraszanie-Ramanowskie-w-ciekich-warstwach.tex [9 <./Images/Rozprasza
-nie-Ramanowskie/Raman-Shift.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png, id=70, 509.5035pt x 467.94
+e 136.
+) (dyplom-Rozpraszanie-Ramanowskie-2.tex [17 <./Images/Rozpraszanie-Ramanowskie
+/Raman-Shift.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png, id=99, 509.5035pt x 467.94
 826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png Graphic file (type png
 )
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png  us
-ed on input line 21. on input line 21.
+ed on input line 20. on input line 20.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 21.
- [10 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=75, 509.5035pt x 
-467.94826pt>
+e 20.
+ [18 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=105, 509.5035pt x
+ 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png Graphic file (ty
 pe png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.p
-ng  used on input line 57. on input line 57.
+ng  used on input line 56. on input line 56.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 57.
- [11 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
-<Images/Full_width_at_half_maximum.png, id=81, 339.2675pt x 189.70876pt>
+e 56.
+ [19 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
+<Images/Full_width_at_half_maximum.png, id=111, 339.2675pt x 189.70876pt>
 File: Images/Full_width_at_half_maximum.png Graphic file (type png)
 <use Images/Full_width_at_half_maximum.png>
 Package pdftex.def Info: Images/Full_width_at_half_maximum.png  used on input l
-ine 100. on input line 100.
+ine 99. on input line 99.
 Package pdftex.def Info: Requested size: 364.19667pt x 203.65793pt on input lin
-e 100.
- [12 <./Images/Full_width_at_half_maximum.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=88, 509.50
-35pt x 467.94826pt>
+e 99.
+ [20 <./Images/Full_width_at_half_maximum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=117, 509.5
+035pt x 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQu
-antum.png  used on input line 128. on input line 128.
+antum.png  used on input line 127. on input line 127.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 128.
-<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf, id=89, pagebox=cropbox, 578.1
-6pt x 357.335pt>
+e 127.
+<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf, id=118, pagebox=cropbox, 578.
+16pt x 357.335pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf Graphic file (type pdf)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.pdf  used 
-on input line 138. on input line 138.
+on input line 137. on input line 137.
 Package pdftex.def Info: Requested size: 318.66948pt x 196.9547pt on input line
- 138.
- [13 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=94, 509.5035pt
- x 467.94826pt>
+ 137.
+
+[21 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=123, 509.5035p
+t x 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png Graphic file 
 (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposit
-e.png  used on input line 148. on input line 148.
+e.png  used on input line 147. on input line 147.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 148.
+e 147.
 )
-(dyplom-przygotowanie-probek-do-badan.tex [14 <./Images/Rozpraszanie-Ramanowski
+(dyplom-przygotowanie-probek-do-badan.tex [22 <./Images/Rozpraszanie-Ramanowski
 e-Ciekie/piki.pdf> <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.p
-ng>] [15]) (dyplom-wyniki-badan.tex [16]) (dyplom-opracowanie-wynikow.tex
-[17]) (dyplom-podsumowanie.tex [18]) (bibliografija.tex [19]) [20] (dyplom.aux)
- ) 
+ng>]
+<Images/Przygotowania/Uklad-pomiarowy.png, id=136, 749.199pt x 427.5975pt>
+File: Images/Przygotowania/Uklad-pomiarowy.png Graphic file (type png)
+<use Images/Przygotowania/Uklad-pomiarowy.png>
+Package pdftex.def Info: Images/Przygotowania/Uklad-pomiarowy.png  used on inpu
+t line 8. on input line 8.
+Package pdftex.def Info: Requested size: 455.24411pt x 259.82277pt on input lin
+e 8.
+) (dyplom-wyniki-badan.tex [23 <./Images/Przygotowania/Uklad-pomiarowy.png>]) (
+dyplom-opracowanie-wynikow.tex [24]) (dyplom-podsumowanie.tex [25])
+(bibliografija.tex [26]) [27] (dyplom.aux) ) 
 Here is how much of TeX's memory you used:
- 4507 strings out of 495169
- 63940 string characters out of 3180275
+ 4538 strings out of 495169
+ 64493 string characters out of 3180275
  135251 words of memory out of 3000000
- 7667 multiletter control sequences out of 15000+200000
- 19118 words of font info for 49 fonts, out of 3000000 for 9000
+ 7690 multiletter control sequences out of 15000+200000
+ 20562 words of font info for 54 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
- 41i,14n,25p,1503b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-s
-uper-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Overshadow/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Users/O
-vershadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1200.pfb><
-C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx
-1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-
-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/
-public/cm-super/sfrm1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fo
-nts/type1/public/cm-super/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiK
-TeX/2.9/fonts/type1/public/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/R
-oaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfxc2488.pfb>
-Output written on dyplom.pdf (21 pages, 1445528 bytes).
+ 41i,14n,25p,1542b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Overshadow/AppData/Roamin
+g/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type
+1/public/cm-super/sfbx1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/Overshadow/AppData/Roaming/M
+iKTeX/2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/Overshadow/AppData
+/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Overshad
+ow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/User
+s/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfti1095.pf
+b><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/s
+fxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
+cm-super/sfxc2488.pfb>
+Output written on dyplom.pdf (28 pages, 1656396 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
