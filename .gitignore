@@ -1,1 +1,6 @@
 ~$ACA MAGISTERSKA.docx
+Latex/*.gz
+Latex/*.toc
+Latex/*.pdf
+Latex/*.aux
+Latex/*.log

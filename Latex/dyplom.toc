@@ -3,22 +3,22 @@
 \contentsline {subsection}{\numberline {1.1}Siarczek galu}{7}
 \contentsline {subsection}{\numberline {1.2}Zastosowania $\mathbf {Ga_{2}S_{3}}$}{9}
 \contentsline {subsection}{\numberline {1.3}Widmo ramanowskie i polaryzacyjne}{10}
-\contentsline {section}{\numberline {2}Rozpraszanie Ramanowskie}{13}
-\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska}{13}
-\contentsline {subsection}{\numberline {2.2}Wgl\IeC {\k a}d matematyczny}{13}
-\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie Ramana}{15}
-\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska}{15}
-\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{15}
-\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{16}
-\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{17}
-\contentsline {subsection}{\numberline {2.6}Fonony w materiale}{18}
-\contentsline {subsection}{\numberline {2.7}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma Ramanowskiego}{20}
-\contentsline {subsection}{\numberline {2.8}Piki ramanowskie w cienkich warstwach}{21}
-\contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{22}
-\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{23}
-\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{23}
-\contentsline {subsection}{\numberline {3.2}Technologia wzrostu kryszta\IeC {\l }k\IeC {\'o}w}{24}
-\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{25}
-\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{26}
-\contentsline {section}{\numberline {6}Podsumowanie}{27}
-\contentsline {section}{Bibliografia}{28}
+\contentsline {section}{\numberline {2}Rozpraszanie Ramanowskie}{14}
+\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska}{14}
+\contentsline {subsection}{\numberline {2.2}Wgl\IeC {\k a}d matematyczny}{14}
+\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie Ramana}{16}
+\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska}{16}
+\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{16}
+\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{17}
+\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{18}
+\contentsline {subsection}{\numberline {2.6}Fonony w materiale}{19}
+\contentsline {subsection}{\numberline {2.7}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma Ramanowskiego}{21}
+\contentsline {subsection}{\numberline {2.8}Piki ramanowskie w cienkich warstwach}{22}
+\contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{23}
+\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{24}
+\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{24}
+\contentsline {subsection}{\numberline {3.2}Technologia wzrostu kryszta\IeC {\l }k\IeC {\'o}w}{25}
+\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{26}
+\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{27}
+\contentsline {section}{\numberline {6}Podsumowanie}{28}
+\contentsline {section}{Bibliografia}{29}
