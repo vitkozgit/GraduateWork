@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  5 AUG 2018 09:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  7 AUG 2018 22:58
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -1006,46 +1006,179 @@ Overfull \hbox (2.42162pt too wide) in paragraph at lines 58--65
  []
 
 [28]) (dyplom-wyniki-badan.tex [29 <./Images/Przygotowania/SLA39-50x-plytkiGa2S
-3.png> <./Images/Przygotowania/long50x.png>]) (dyplom-opracowanie-wynikow.tex
-[30]) (dyplom-podsumowanie.tex [31]) (bibliografija.tex [32]) [33] (dyplom.aux)
- ) 
+3.png> <./Images/Przygotowania/long50x.png>]
+<Images/Wyniki/Raman/plotGapWithGa2S3.png, id=196, 578.16pt x 418.56375pt>
+File: Images/Wyniki/Raman/plotGapWithGa2S3.png Graphic file (type png)
+<use Images/Wyniki/Raman/plotGapWithGa2S3.png>
+Package pdftex.def Info: Images/Wyniki/Raman/plotGapWithGa2S3.png  used on inpu
+t line 9. on input line 9.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 9.
+ [30 <./Images/Wyniki/Raman/plotGapWithGa2S3.png>]
+<Images/Wyniki/Raman/plotGaP.png, id=202, 578.16pt x 418.56375pt>
+File: Images/Wyniki/Raman/plotGaP.png Graphic file (type png)
+<use Images/Wyniki/Raman/plotGaP.png>
+Package pdftex.def Info: Images/Wyniki/Raman/plotGaP.png  used on input line 24
+. on input line 24.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 24.
+<Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf, id=203, pagebox=cropbox, 260.97
+5pt x 287.0725pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf  used on
+ input line 31. on input line 31.
+Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
+e 31.
+<Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf, id=204, pagebox=cropbox, 260.97
+5pt x 287.0725pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf  used on
+ input line 35. on input line 35.
+Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
+e 35.
+
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 30--37
+[]$[]$  $[]$ 
+ []
+
+<Images/Wyniki/Raman/plotVVandVH.png, id=205, 578.16pt x 418.56375pt>
+File: Images/Wyniki/Raman/plotVVandVH.png Graphic file (type png)
+<use Images/Wyniki/Raman/plotVVandVH.png>
+Package pdftex.def Info: Images/Wyniki/Raman/plotVVandVH.png  used on input lin
+e 44. on input line 44.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 44.
+[31 <./Images/Wyniki/Raman/plotGaP.png> <./Images/Wyniki/WidmoPolaryzacyjne/plo
+t5GaP.pdf> <./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.
+pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<Images/Wyniki/Raman/plotAllVV.pdf, id=224, pagebox=cropbox, 578.16pt x 381.425
+pt>
+File: Images/Wyniki/Raman/plotAllVV.pdf Graphic file (type pdf)
+<use Images/Wyniki/Raman/plotAllVV.pdf>
+Package pdftex.def Info: Images/Wyniki/Raman/plotAllVV.pdf  used on input line 
+53. on input line 53.
+Package pdftex.def Info: Requested size: 364.19667pt x 240.26408pt on input lin
+e 53.
+<Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf, id=225, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf  used on 
+input line 60. on input line 60.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 60.
+ [32 <./Images/Wyniki/Raman/plotVVandVH.png> <./Images/Wyniki/Raman/plotAllVV.p
+df>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf, id=256, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf  used on 
+input line 67. on input line 67.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 67.
+<Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf, id=257, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf  used on 
+input line 74. on input line 74.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 74.
+ [33 <./Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf> <./Images/Wyniki/WidmoPol
+aryzacyjne/plot143.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot143.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf, id=276, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf  used on 
+input line 81. on input line 81.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 81.
+<Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf, id=277, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf  used on 
+input line 88. on input line 88.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 88.
+ [34 <./Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf> <./Images/Wyniki/WidmoPol
+aryzacyjne/plot235.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot235.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf, id=296, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf  used on 
+input line 95. on input line 95.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 95.
+<Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf, id=297, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf Graphic file (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf  used on 
+input line 102. on input line 102.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 102.
+ [35 <./Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf> <./Images/Wyniki/WidmoPol
+aryzacyjne/plot330.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot330.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>]) (dyplom-opracowanie-wynikow.tex [36 <./Images/Wyniki/WidmoPolaryzacyjne/plo
+t390.pdf>]) (dyplom-podsumowanie.tex [37]) (bibliografija.tex [38]) [39]
+(dyplom.aux) ) 
 Here is how much of TeX's memory you used:
- 4661 strings out of 495169
- 68896 string characters out of 3180275
+ 4730 strings out of 495169
+ 71783 string characters out of 3180275
  136251 words of memory out of 3000000
- 7785 multiletter control sequences out of 15000+200000
+ 7837 multiletter control sequences out of 15000+200000
  24838 words of font info for 64 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
  41i,16n,25p,1542b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-s
-uper-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Overshadow/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Users/O
-vershadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1200.pfb><
-C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx
-1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-
-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/
-public/cm-super/sfrm0600.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fo
-nts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Overshadow/AppData/Roaming/MiK
-TeX/2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Users/Overshadow/AppData/R
-oaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Users/Overshadow
-/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Users/
-Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfxc1440.pfb>
-<C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfx
-c2488.pfb>
-Output written on dyplom.pdf (34 pages, 5100678 bytes).
+{C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/c
+m-super/cm-super-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users
+/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfbx1095.pfb
+><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sf
+bx1200.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/c
+m-super/sfbx1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type
+1/public/cm-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users/Overshadow/AppData/Roaming/M
+iKTeX/2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Overshadow/AppData
+/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Users/Overshad
+ow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/User
+s/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfti1095.pf
+b><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/s
+fxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
+cm-super/sfxc2488.pfb>
+Output written on dyplom.pdf (40 pages, 5452636 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
+ 411 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
 

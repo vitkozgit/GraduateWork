@@ -19,6 +19,6 @@
 \contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{27}
 \contentsline {subsection}{\numberline {3.2}Technologia wzrostu kryszta\IeC {\l }k\IeC {\'o}w (Nie wiem czy to ta technologia)}{29}
 \contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{30}
-\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{31}
-\contentsline {section}{\numberline {6}Podsumowanie}{32}
-\contentsline {section}{Bibliografia}{33}
+\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{37}
+\contentsline {section}{\numberline {6}Podsumowanie}{38}
+\contentsline {section}{Bibliografia}{39}
