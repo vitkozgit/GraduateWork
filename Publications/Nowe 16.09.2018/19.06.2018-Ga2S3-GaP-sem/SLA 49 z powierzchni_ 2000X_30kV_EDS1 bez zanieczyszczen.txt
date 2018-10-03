@@ -1,0 +1,22 @@
+EDAX ZAF Quantification (Standardless)
+Element Normalized
+SEC Table : Default
+
+ Elem     Wt %  At % K-Ratio    Z       A       F
+-------------------------------------------------------------
+  P K   33.85  53.52  0.1191  1.0756  0.3271  1.0000
+  GaK   66.15  46.48  0.6274  0.9509  0.9973  1.0000
+Total  100.00 100.00 
+
+Element  Net Inte.  Backgrd  Inte. Error  P/B 
+-------------------------------------------------
+ P K     551.04      48.07      0.24     11.46 
+ GaK     711.59      13.51      0.20     52.67 
+
+C:\EDS\USR\SLA 49 z powierzchni_ 2000X_30kV_EDS1.spc
+Label :SLA 49 z powierzchni_ 2000X_30kV_EDS1
+Acquisition Time  : 12:40:00   Date : 20-Jun-2018
+
+kV: 30.00  Tilt: 0.00  Take-off: 35.00  AmpT: 25.6
+Det Type:SUTW, Sapphire   Res: 139.72  Lsec: 357
+

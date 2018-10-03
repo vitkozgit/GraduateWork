@@ -1,0 +1,25 @@
+EDAX ZAF Quantification (Standardless)
+Element Normalized
+SEC Table : Default
+
+ Elem     Wt %  At % K-Ratio    Z       A       F
+-------------------------------------------------------------
+  P K    0.66   0.98  0.0026  1.0505  0.3638  1.0195
+  S K   42.41  61.22  0.2132  1.0784  0.4662  1.0000
+  GaK   56.93  37.80  0.5242  0.9277  0.9925  1.0000
+Total  100.00 100.00 
+
+Element  Net Inte.  Backgrd  Inte. Error  P/B 
+-------------------------------------------------
+ P K      16.06      41.45      3.76      0.39 
+ S K    1332.14      41.66      0.17     31.98 
+ GaK     806.82      20.68      0.22     39.01 
+
+C:\EDS\USR\ELA_EDSY\PODSIADLO\Jastrzebski\19.06.2018\SLA 39 z PUNKTU 
+NA SRODKU_ 2000X_30kV_EDS1.spc
+Label :SLA 39 z PUNKTU NA SRODKU_ 2000X_30kV_EDS1
+Acquisition Time  : 14:10:40   Date : 19-Jun-2018
+
+kV: 30.00  Tilt: 0.00  Take-off: 35.00  AmpT: 25.6
+Det Type:SUTW, Sapphire   Res: 139.72  Lsec: 272
+

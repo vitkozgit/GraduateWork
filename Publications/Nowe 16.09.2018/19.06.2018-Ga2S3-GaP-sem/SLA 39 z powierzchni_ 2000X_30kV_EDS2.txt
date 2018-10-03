@@ -1,0 +1,31 @@
+EDAX ZAF Quantification (Standardless)
+Element Normalized
+SEC Table : Default
+
+ Elem     Wt %  At % K-Ratio    Z       A       F
+-------------------------------------------------------------
+  SiK    0.50   0.85  0.0015  1.0896  0.2622  1.0103
+  P K    0.74   1.13  0.0028  1.0543  0.3508  1.0174
+  S K   39.21  57.69  0.1914  1.0823  0.4510  1.0000
+  FeK    0.15   0.13  0.0015  0.9863  0.9336  1.0891
+  NiK    0.22   0.18  0.0026  1.0062  0.9673  1.1886
+  GaK   59.17  40.03  0.5470  0.9314  0.9924  1.0000
+Total  100.00 100.00 
+
+Element  Net Inte.  Backgrd  Inte. Error  P/B 
+-------------------------------------------------
+ SiK       8.86       5.78      2.43      1.53 
+ P K      16.09       4.26      1.47      3.78 
+ S K    1100.04       2.42      0.14    454.34 
+ FeK       4.07       3.14      3.77      1.30 
+ NiK       5.54       2.26      2.73      2.45 
+ GaK     774.33       1.06      0.17    727.10 
+
+C:\EDS\USR\ELA_EDSY\PODSIADLO\Jastrzebski\19.06.2018\SLA 39 z 
+powierzchni_ 2000X_30kV_EDS2.spc
+Label :SLA 39 z powierzchni_ 2000X_30kV_EDS2
+Acquisition Time  : 14:26:20   Date : 19-Jun-2018
+
+kV: 30.00  Tilt: 0.00  Take-off: 35.00  AmpT: 25.6
+Det Type:SUTW, Sapphire   Res: 139.72  Lsec: 439
+
