@@ -149,4 +149,38 @@ Kiedy foton trafia na materiał może zajść sytuacja, że zostaną wykreowane 
 	\end{center}
 \end{figure}
 
-Piki na widmie ramanowskim pochodzące z rozpraszania dwufononowego mają prawie dwa razy większe przesunięcie niż piki odpowiadające fononom z centrum przerwy brillouine'a. 
+Piki na widmie ramanowskim pochodzące z rozpraszania dwufononowego mają prawie dwa razy większe przesunięcie niż piki odpowiadające fononom z centrum przerwy brillouine'a.
+
+\subsection{Widmo ramanowskie w funkcji polaryzacji}
+
+W zależności od kierunku polaryzacji światła laserowego, które oddziałuje z fononami w materiale intensywności pików będą się zmieniać. Po zaobserwowaniu tych zmian można uzyskać widmo polaryzacyjne. Przykładowe widmo polaryzacyjne znajduje się poniżej:
+
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.8\linewidth]{Wlasciwosci/Spectre-polarization-Ga2S3.png}
+		\caption{Przykładowe widmo polaryzacyjne dla trzech pików $\mathbf{A_{1g}}$ $\mathbf{E_{2g}^{2}}$ $\mathbf{E_{2g}^{1}}$. Tu intensywność czyli pole powierzchni piku to odległość od środka do punktu, który odpowiada określonemu kątowi. Ten kąt jest kątem między kierunkiem drgania dipola a promieniowaniem pobudzającym. Widać, że tylko pik $\mathbf{A_{1g}}$ znacząco reaguje na zmianę polaryzacji.[19]}
+	\end{center}
+\end{figure}
+
+Intensywność piku ramanowskiego można pokazać taką relacją:
+\begin{equation}
+I_{s} \sim |e_{i}\mathbf{R}e_{s}|^{2}
+\end{equation}
+\begin{itemize}
+	\item $e_{i}$ i $e_{s}$ - wektory polaryzacji promieniowania podającego i rozproszonego odpowiednio.
+	\item $\mathbf{R}$ - Tensor ramanowski, który zależy od symetrii kryształu i konkretnego drgającego modu.
+\end{itemize}
+
+Wektor elektryczny rozproszonego światła ramanowskiego jest powiązany z wektorem elektrycznym światła padającego przez charakterystyczny tensor ramanowski. Unikalny tensor ramanowski istnieje dla każdego aktywowanego molekularnego trybu wibracyjnego.
+
+Tensor ramanowski jest macierzą 3 x 3, która łączy wektor elektryczny (x1, y1, z1) promieniowania wzbudzającego z wektorem elektrycznym (x2, y2, z2) promieniowania rozproszonego podanego przez:
+
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.5\linewidth]{Wlasciwosci/Raman-Tensor.png}
+	\end{center}
+\end{figure}
+
+Ponieważ $a_{xy} = a_{yx}$, $a_{yz} = a_{zy}$ i $a_{zx} = a_{xz}$, należy określić tylko sześć składowych tensorowych. W tym przypadku x, y i z są prostokątnymi osiami współrzędnych, które są ustalone na cząsteczce, ale są arbitralnie wybierane. Jeśli główne osie tensora ramanowskiego, które są unikalne dla dowolnego danego pasma ramanowskiego, są wybierane jako układ współrzędnych xyz, to sześć niezerowych składników tensora są zredukowane do trzech elementów diagonalnych: $a_{xx}$, $a_{yy}$ i $a_{zz}$. Tak więc, tensor Ramana może zostać ustalony przez określenie $a_{xx}$, $a_{yy}$ i $a_{zz}$ oraz trzech parametrów kątowych, które ustalają główne osie tensorowe w układzie współrzędnych xyz.
+
+Aby zdefiniować system głównych osi (xyz) lokalnego tensora ramanowskiego, arbitralnie wybieramy trzy nieliniowo ułożone atomy $E_1$, $E_2$ i $A$ w cząsteczce będącej przedmiotem zainteresowania w taki sposób, że oś y jest równoległa do linii łączącej atomy $E_1$ i $E_2$, oś x jest równoległa do linii prostopadłej łączącej atom $A$ z osią y, a oś z jest prostopadła do osi y i x. Chociaż zestaw wybranych osi może nie obejmować całego kąta bryłowego 4$\Pi$, zwykle wystarcza do określenia tensora Ramana. Wynika to z faktu, że każda przerwa między kierunkami dwóch kandydujących osi wprowadza błąd, który jest mały w stosunku do błędów w pomiarach eksperymentalnych.
