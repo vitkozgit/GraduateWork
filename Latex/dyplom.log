@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  4 OCT 2018 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  5 NOV 2018 20:40
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -946,51 +946,53 @@ Overfull \hbox (0.86354pt too wide) in paragraph at lines 287--288
 File: Images/Wlasciwosci/Raman-Ga2S3.png Graphic file (type png)
 <use Images/Wlasciwosci/Raman-Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Raman-Ga2S3.png  used on input line
- 304. on input line 304.
+ 306. on input line 306.
 Package pdftex.def Info: Requested size: 455.24411pt x 248.92636pt on input lin
-e 304.
-)
-(dyplom-Rozpraszanie-Ramanowskie.tex [17 <./Images/Wlasciwosci/Raman-Ga2S3.png>
-] [18]
-<Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png, id=128, 419.7
+e 306.
+ [17 <./Images/Wlasciwosci/Raman-Ga2S3.png>]) (dyplom-Rozpraszanie-Ramanowskie.
+tex [18] [19]
+<Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png, id=131, 419.7
 6825pt x 222.8325pt>
 File: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanows
-kiego.png  used on input line 67. on input line 67.
+kiego.png  used on input line 63. on input line 63.
 Package pdftex.def Info: Requested size: 455.24411pt x 241.67215pt on input lin
-e 67.
- [19 <./Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>]
-<Images/Rozpraszanie-Ramanowskie/Raman-Energy.png, id=134, 615.4995pt x 303.534
+e 63.
+ [20]
+<Images/Rozpraszanie-Ramanowskie/Raman-Energy.png, id=136, 615.4995pt x 303.534
 pt>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png  used
- on input line 87. on input line 87.
+ on input line 83. on input line 83.
 Package pdftex.def Info: Requested size: 455.24411pt x 224.51437pt on input lin
-e 87.
-[20 <./Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>]
-<Images/Rozpraszanie-Ramanowskie/Point-Dipol.png, id=139, 398.6895pt x 314.3745
+e 83.
+
+[21 <./Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>]
+<Images/Rozpraszanie-Ramanowskie/Point-Dipol.png, id=141, 398.6895pt x 314.3745
 pt>
 File: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Point-Dipol.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png  used 
-on input line 109. on input line 109.
+on input line 103. on input line 103.
 Package pdftex.def Info: Requested size: 273.14923pt x 215.38359pt on input lin
-e 109.
- [21 <./Images/Rozpraszanie-Ramanowskie/Point-Dipol.png>]
-<Images/Rozpraszanie-Ramanowskie/Raman-Shift.png, id=144, 673.3155pt x 434.8245
+e 103.
+
+[22 <./Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>] [23 <./Images/Rozpras
+zanie-Ramanowskie/Point-Dipol.png>]
+<Images/Rozpraszanie-Ramanowskie/Raman-Shift.png, id=150, 673.3155pt x 434.8245
 pt>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png  used 
-on input line 136. on input line 136.
+on input line 130. on input line 130.
 Package pdftex.def Info: Requested size: 364.19667pt x 235.19318pt on input lin
-e 136.
+e 130.
 ) (dyplom-Rozpraszanie-Ramanowskie-2.tex
-[22 <./Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png, id=149, 509.5035pt x 467.9
+[24 <./Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png, id=156, 509.5035pt x 467.9
 4826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png Graphic file (type png
 )
@@ -999,321 +1001,362 @@ Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png  us
 ed on input line 20. on input line 20.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
 e 20.
- [23 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=154, 509.5035pt x
+ [25 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=161, 509.5035pt x
  467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png Graphic file (ty
 pe png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.p
-ng  used on input line 56. on input line 56.
+ng  used on input line 54. on input line 54.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 56.
- [24 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
-<Images/Full_width_at_half_maximum.png, id=161, 339.2675pt x 189.70876pt>
+e 54.
+ [26 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
+<Images/Full_width_at_half_maximum.png, id=167, 339.2675pt x 189.70876pt>
 File: Images/Full_width_at_half_maximum.png Graphic file (type png)
 <use Images/Full_width_at_half_maximum.png>
 Package pdftex.def Info: Images/Full_width_at_half_maximum.png  used on input l
-ine 99. on input line 99.
+ine 95. on input line 95.
 Package pdftex.def Info: Requested size: 364.19667pt x 203.65793pt on input lin
-e 99.
- [25 <./Images/Full_width_at_half_maximum.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=167, 509.5
+e 95.
+ [27 <./Images/Full_width_at_half_maximum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=173, 509.5
 035pt x 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQu
-antum.png  used on input line 127. on input line 127.
+antum.png  used on input line 123. on input line 123.
 Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
-e 127.
-<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png, id=168, 399.29175pt x 261.978
+e 123.
+<Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png, id=174, 399.29175pt x 261.978
 74pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png  used 
-on input line 137. on input line 137.
+on input line 132. on input line 132.
 Package pdftex.def Info: Requested size: 318.66948pt x 209.08359pt on input lin
-e 137.
+e 132.
 
-[26 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
-<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=173, 509.5035p
+[28 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
+<Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=179, 509.5035p
 t x 467.94826pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png Graphic file 
 (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposit
-e.png  used on input line 147. on input line 147.
+e.png  used on input line 144. on input line 144.
 Package pdftex.def Info: Requested size: 250.38564pt x 229.9607pt on input line
- 147.
+ 144.
 
-[27 <./Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png> <./Images/Rozpraszanie-
-Ramanowskie-Ciekie/Phonons_opposite.png>]
-<Images/Wlasciwosci/Spectre-polarization-Ga2S3.png, id=179, 368.577pt x 280.648
+[29 <./Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png>]
+<Images/Wlasciwosci/Spectre-polarization-Ga2S3.png, id=184, 368.577pt x 280.648
 5pt>
 File: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png Graphic file (type png)
 
 <use Images/Wlasciwosci/Spectre-polarization-Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png  use
-d on input line 160. on input line 160.
+d on input line 157. on input line 157.
 Package pdftex.def Info: Requested size: 364.19667pt x 277.32042pt on input lin
-e 160.
-<Images/Wlasciwosci/Raman-Tensor.png, id=180, 273.27094pt x 100.87688pt>
+e 157.
+ [30 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>]
+<Images/Wlasciwosci/Raman-Tensor.png, id=190, 273.27094pt x 100.87688pt>
 File: Images/Wlasciwosci/Raman-Tensor.png Graphic file (type png)
 <use Images/Wlasciwosci/Raman-Tensor.png>
 Package pdftex.def Info: Images/Wlasciwosci/Raman-Tensor.png  used on input lin
-e 180. on input line 180.
+e 179. on input line 179.
 Package pdftex.def Info: Requested size: 227.62206pt x 84.02638pt on input line
- 180.
- [28 <./Images/Wlasciwosci/Spectre-polarization-Ga2S3.png>]) (dyplom-przygotowa
-nie-probek-do-badan.tex [29 <./Images/Wlasciwosci/Raman-Tensor.png>]
-<Images/Przygotowania/Uklad-pomiarowy.png, id=189, 749.199pt x 427.5975pt>
+ 179.
+ [31 <./Images/Wlasciwosci/Spectre-polarization-Ga2S3.png> <./Images/Wlasciwosc
+i/Raman-Tensor.png>])
+(dyplom-przygotowanie-probek-do-badan.tex [32]
+<Images/Przygotowania/Uklad-pomiarowy.png, id=199, 749.199pt x 427.5975pt>
 File: Images/Przygotowania/Uklad-pomiarowy.png Graphic file (type png)
 <use Images/Przygotowania/Uklad-pomiarowy.png>
 Package pdftex.def Info: Images/Przygotowania/Uklad-pomiarowy.png  used on inpu
-t line 8. on input line 8.
+t line 9. on input line 9.
 Package pdftex.def Info: Requested size: 455.24411pt x 259.82277pt on input lin
-e 8.
- [30 <./Images/Przygotowania/Uklad-pomiarowy.png>] [31]
-<Images/Przygotowania/SLA39-50x-plytkiGa2S3.png, id=198, 566.115pt x 361.35pt>
+e 9.
+ [33 <./Images/Przygotowania/Uklad-pomiarowy.png>]
+<Images/Przygotowania/Spektroskop.png, id=204, 377.775pt x 212.5395pt>
+File: Images/Przygotowania/Spektroskop.png Graphic file (type png)
+<use Images/Przygotowania/Spektroskop.png>
+Package pdftex.def Info: Images/Przygotowania/Spektroskop.png  used on input li
+ne 49. on input line 49.
+Package pdftex.def Info: Requested size: 364.19667pt x 204.91122pt on input lin
+e 49.
+ [34]
+<Images/Przygotowania/SLA39-50x-plytkiGa2S3.png, id=208, 566.115pt x 361.35pt>
 File: Images/Przygotowania/SLA39-50x-plytkiGa2S3.png Graphic file (type png)
 <use Images/Przygotowania/SLA39-50x-plytkiGa2S3.png>
 Package pdftex.def Info: Images/Przygotowania/SLA39-50x-plytkiGa2S3.png  used o
-n input line 70. on input line 70.
+n input line 72. on input line 72.
 Package pdftex.def Info: Requested size: 182.09833pt x 116.22984pt on input lin
-e 70.
-<Images/Przygotowania/long50x.png, id=199, 754.82pt x 481.8pt>
+e 72.
+<Images/Przygotowania/long50x.png, id=209, 754.82pt x 481.8pt>
 File: Images/Przygotowania/long50x.png Graphic file (type png)
 <use Images/Przygotowania/long50x.png>
 Package pdftex.def Info: Images/Przygotowania/long50x.png  used on input line 7
-4. on input line 74.
+6. on input line 76.
 Package pdftex.def Info: Requested size: 182.09833pt x 116.22984pt on input lin
-e 74.
+e 76.
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 69--76
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 71--78
 []$[]$  $[]$ 
  []
 
-<Images/Wlasciwosci/SLA39_MIX_5000.jpg, id=200, 3597.44pt x 3315.38625pt>
+[35 <./Images/Przygotowania/Spektroskop.png>]
+<Images/Wlasciwosci/SLA39_MIX_5000.jpg, id=213, 3597.44pt x 3315.38625pt>
 File: Images/Wlasciwosci/SLA39_MIX_5000.jpg Graphic file (type jpg)
 <use Images/Wlasciwosci/SLA39_MIX_5000.jpg>
 Package pdftex.def Info: Images/Wlasciwosci/SLA39_MIX_5000.jpg  used on input l
-ine 81. on input line 81.
-Package pdftex.def Info: Requested size: 171.17287pt x 157.73543pt on input lin
-e 81.
-<Images/Wlasciwosci/SLA39_MIX_10000.jpg, id=201, 3597.44pt x 3315.38625pt>
+ine 83. on input line 83.
+Package pdftex.def Info: Requested size: 149.77504pt x 138.00584pt on input lin
+e 83.
+<Images/Wlasciwosci/SLA39_MIX_10000.jpg, id=214, 3597.44pt x 3315.38625pt>
 File: Images/Wlasciwosci/SLA39_MIX_10000.jpg Graphic file (type jpg)
 <use Images/Wlasciwosci/SLA39_MIX_10000.jpg>
 Package pdftex.def Info: Images/Wlasciwosci/SLA39_MIX_10000.jpg  used on input 
-line 85. on input line 85.
-Package pdftex.def Info: Requested size: 171.17287pt x 157.73543pt on input lin
-e 85.
-<Images/Przygotowania/SEM.png, id=202, 284.262pt x 228.25275pt>
+line 87. on input line 87.
+Package pdftex.def Info: Requested size: 149.77504pt x 138.00584pt on input lin
+e 87.
+<Images/Przygotowania/SEM.png, id=215, 284.262pt x 228.25275pt>
 File: Images/Przygotowania/SEM.png Graphic file (type png)
 <use Images/Przygotowania/SEM.png>
-Package pdftex.def Info: Images/Przygotowania/SEM.png  used on input line 92. o
-n input line 92.
-Package pdftex.def Info: Requested size: 295.90588pt x 237.6106pt on input line
- 92.
-[32 <./Images/Przygotowania/SLA39-50x-plytkiGa2S3.png> <./Images/Przygotowania/
-long50x.png> <./Images/Wlasciwosci/SLA39_MIX_5000.jpg> <./Images/Wlasciwosci/SL
-A39_MIX_10000.jpg>]) (dyplom-wyniki-badan.tex [33 <./Images/Przygotowania/SEM.p
-ng>]
-<Images/Wyniki/Raman/plotGapWithGa2S3.png, id=210, 578.16pt x 418.56375pt>
+Package pdftex.def Info: Images/Przygotowania/SEM.png  used on input line 94. o
+n input line 94.
+Package pdftex.def Info: Requested size: 250.38564pt x 201.05806pt on input lin
+e 94.
+ [36 <./Images/Przygotowania/SLA39-50x-plytkiGa2S3.png> <./Images/Przygotowania
+/long50x.png> <./Images/Wlasciwosci/SLA39_MIX_5000.jpg> <./Images/Wlasciwosci/S
+LA39_MIX_10000.jpg> <./Images/Przygotowania/SEM.png>]) (dyplom-wyniki-badan.tex
+ [37]
+<Images/Wyniki/Raman/plotGapWithGa2S3.png, id=224, 578.16pt x 418.56375pt>
 File: Images/Wyniki/Raman/plotGapWithGa2S3.png Graphic file (type png)
 <use Images/Wyniki/Raman/plotGapWithGa2S3.png>
 Package pdftex.def Info: Images/Wyniki/Raman/plotGapWithGa2S3.png  used on inpu
 t line 9. on input line 9.
 Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
 e 9.
- [34 <./Images/Wyniki/Raman/plotGapWithGa2S3.png>]
-<Images/Wyniki/Raman/plotGaP.png, id=215, 578.16pt x 418.56375pt>
+<Images/Wyniki/Raman/plotGaP.png, id=225, 578.16pt x 418.56375pt>
 File: Images/Wyniki/Raman/plotGaP.png Graphic file (type png)
 <use Images/Wyniki/Raman/plotGaP.png>
-Package pdftex.def Info: Images/Wyniki/Raman/plotGaP.png  used on input line 24
-. on input line 24.
+Package pdftex.def Info: Images/Wyniki/Raman/plotGaP.png  used on input line 22
+. on input line 22.
 Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
-e 24.
-<Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf, id=216, pagebox=cropbox, 260.97
+e 22.
+ [38 <./Images/Wyniki/Raman/plotGapWithGa2S3.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf, id=230, pagebox=cropbox, 260.97
 5pt x 287.0725pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf  used on
- input line 31. on input line 31.
+ input line 30. on input line 30.
 Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
-e 31.
-<Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf, id=217, pagebox=cropbox, 260.97
+e 30.
+<Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf, id=231, pagebox=cropbox, 260.97
 5pt x 287.0725pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf  used on
- input line 35. on input line 35.
+ input line 34. on input line 34.
 Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
-e 35.
+e 34.
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 30--37
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 29--36
 []$[]$  $[]$ 
  []
 
-<Images/Wyniki/Raman/plotVVandVH.png, id=218, 578.16pt x 418.56375pt>
-File: Images/Wyniki/Raman/plotVVandVH.png Graphic file (type png)
-<use Images/Wyniki/Raman/plotVVandVH.png>
-Package pdftex.def Info: Images/Wyniki/Raman/plotVVandVH.png  used on input lin
-e 44. on input line 44.
-Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
-e 44.
-[35 <./Images/Wyniki/Raman/plotGaP.png> <./Images/Wyniki/WidmoPolaryzacyjne/plo
+[39 <./Images/Wyniki/Raman/plotGaP.png> <./Images/Wyniki/WidmoPolaryzacyjne/plo
 t5GaP.pdf> <./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.
 pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/Raman/plotAllVV.pdf, id=237, pagebox=cropbox, 578.16pt x 381.425
+<Images/Wyniki/Raman/plotVVandVH.png, id=250, 578.16pt x 418.56375pt>
+File: Images/Wyniki/Raman/plotVVandVH.png Graphic file (type png)
+<use Images/Wyniki/Raman/plotVVandVH.png>
+Package pdftex.def Info: Images/Wyniki/Raman/plotVVandVH.png  used on input lin
+e 43. on input line 43.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 43.
+<Images/Wyniki/Raman/plotAllVV.pdf, id=251, pagebox=cropbox, 578.16pt x 381.425
 pt>
 File: Images/Wyniki/Raman/plotAllVV.pdf Graphic file (type pdf)
 <use Images/Wyniki/Raman/plotAllVV.pdf>
 Package pdftex.def Info: Images/Wyniki/Raman/plotAllVV.pdf  used on input line 
-53. on input line 53.
+52. on input line 52.
 Package pdftex.def Info: Requested size: 364.19667pt x 240.26408pt on input lin
-e 53.
-<Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf, id=238, pagebox=cropbox, 310.158
+e 52.
+ [40 <./Images/Wyniki/Raman/plotVVandVH.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf, id=256, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf  used on 
-input line 60. on input line 60.
+input line 61. on input line 61.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 60.
- [36 <./Images/Wyniki/Raman/plotVVandVH.png> <./Images/Wyniki/Raman/plotAllVV.p
-df>]
-<Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf, id=270, pagebox=cropbox, 310.158
+e 61.
+ [41 <./Images/Wyniki/Raman/plotAllVV.pdf>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf, id=287, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf  used on 
-input line 67. on input line 67.
+input line 68. on input line 68.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 67.
-<Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf, id=271, pagebox=cropbox, 310.158
+e 68.
+<Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf, id=288, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf  used on 
-input line 74. on input line 74.
+input line 75. on input line 75.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 74.
- [37 <./Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf> <./Images/Wyniki/WidmoPol
+e 75.
+ [42 <./Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot143.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot143.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf, id=290, pagebox=cropbox, 310.158
+<Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf, id=308, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf  used on 
-input line 81. on input line 81.
+input line 82. on input line 82.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 81.
-<Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf, id=291, pagebox=cropbox, 310.158
+e 82.
+<Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf, id=309, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf  used on 
-input line 88. on input line 88.
+input line 89. on input line 89.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 88.
- [38 <./Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf> <./Images/Wyniki/WidmoPol
+e 89.
+ [43 <./Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot235.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot235.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf, id=310, pagebox=cropbox, 310.158
+<Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf, id=328, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf  used on 
-input line 95. on input line 95.
+input line 96. on input line 96.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 95.
-<Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf, id=311, pagebox=cropbox, 310.158
+e 96.
+<Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf, id=329, pagebox=cropbox, 310.158
 75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf  used on 
-input line 102. on input line 102.
+input line 103. on input line 103.
 Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
-e 102.
- [39 <./Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf> <./Images/Wyniki/WidmoPol
+e 103.
+ [44 <./Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot330.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot330.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->]) (dyplom-opracowanie-wynikow.tex [40 <./Images/Wyniki/WidmoPolaryzacyjne/plo
+>]) (dyplom-opracowanie-wynikow.tex [45 <./Images/Wyniki/WidmoPolaryzacyjne/plo
 t390.pdf>]
-<Images/Opracowanie/tetraedr.jpg, id=341, 104.7915pt x 101.178pt>
+<Images/Opracowanie/tetraedr.jpg, id=359, 104.7915pt x 101.178pt>
 File: Images/Opracowanie/tetraedr.jpg Graphic file (type jpg)
 <use Images/Opracowanie/tetraedr.jpg>
 Package pdftex.def Info: Images/Opracowanie/tetraedr.jpg  used on input line 9.
  on input line 9.
 Package pdftex.def Info: Requested size: 136.57462pt x 131.87718pt on input lin
 e 9.
-<Images/Opracowanie/alfa_prim_Cc.png, id=342, 695.59875pt x 333.04425pt>
+<Images/Opracowanie/alfa_prim_Cc.png, id=360, 695.59875pt x 333.04425pt>
 File: Images/Opracowanie/alfa_prim_Cc.png Graphic file (type png)
 <use Images/Opracowanie/alfa_prim_Cc.png>
 Package pdftex.def Info: Images/Opracowanie/alfa_prim_Cc.png  used on input lin
-e 40. on input line 40.
+e 39. on input line 39.
 Package pdftex.def Info: Requested size: 171.17287pt x 81.95482pt on input line
- 40.
-<Images/Opracowanie/alfa_prim_Bb.png, id=343, 472.164pt x 275.8305pt>
+ 39.
+<Images/Opracowanie/alfa_prim_Bb.png, id=361, 472.164pt x 275.8305pt>
 File: Images/Opracowanie/alfa_prim_Bb.png Graphic file (type png)
 <use Images/Opracowanie/alfa_prim_Bb.png>
 Package pdftex.def Info: Images/Opracowanie/alfa_prim_Bb.png  used on input lin
-e 44. on input line 44.
+e 43. on input line 43.
 Package pdftex.def Info: Requested size: 171.17287pt x 99.99756pt on input line
- 44.
- [41 <./Images/Opracowanie/tetraedr.jpg>]
-<Images/Opracowanie/alfa.png, id=347, 405.9165pt x 277.63725pt>
+ 43.
+ [46 <./Images/Opracowanie/tetraedr.jpg>]
+<Images/Opracowanie/alfa.png, id=365, 405.9165pt x 277.63725pt>
 File: Images/Opracowanie/alfa.png Graphic file (type png)
 <use Images/Opracowanie/alfa.png>
-Package pdftex.def Info: Images/Opracowanie/alfa.png  used on input line 53. on
- input line 53.
+Package pdftex.def Info: Images/Opracowanie/alfa.png  used on input line 52. on
+ input line 52.
 Package pdftex.def Info: Requested size: 171.17287pt x 117.07709pt on input lin
-e 53.
-<Images/Opracowanie/beta.png, id=348, 418.56375pt x 282.45525pt>
+e 52.
+<Images/Opracowanie/beta.png, id=366, 418.56375pt x 282.45525pt>
 File: Images/Opracowanie/beta.png Graphic file (type png)
 <use Images/Opracowanie/beta.png>
-Package pdftex.def Info: Images/Opracowanie/beta.png  used on input line 57. on
- input line 57.
+Package pdftex.def Info: Images/Opracowanie/beta.png  used on input line 56. on
+ input line 56.
 Package pdftex.def Info: Requested size: 171.17287pt x 115.51001pt on input lin
-e 57.
-<Images/Opracowanie/Tensor-Cc.png, id=349, 143.3355pt x 126.4725pt>
+e 56.
+ [47 <./Images/Opracowanie/alfa_prim_Cc.png> <./Images/Opracowanie/alfa_prim_Bb
+.png> <./Images/Opracowanie/alfa.png> <./Images/Opracowanie/beta.png>]
+<Images/Opracowanie/Tensor-Cc.png, id=374, 143.3355pt x 126.4725pt>
 File: Images/Opracowanie/Tensor-Cc.png Graphic file (type png)
 <use Images/Opracowanie/Tensor-Cc.png>
 Package pdftex.def Info: Images/Opracowanie/Tensor-Cc.png  used on input line 8
-1. on input line 81.
+4. on input line 84.
 Package pdftex.def Info: Requested size: 136.57462pt x 120.51099pt on input lin
-e 81.
- [42 <./Images/Opracowanie/alfa_prim_Cc.png> <./Images/Opracowanie/alfa_prim_Bb
-.png> <./Images/Opracowanie/alfa.png> <./Images/Opracowanie/beta.png>]) (dyplom
--podsumowanie.tex [43 <./Images/Opracowanie/Tensor-Cc.png>]) (bibliografija.tex
- [44]
+e 84.
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf, id=375, pageb
+ox=cropbox, 361.35pt x 361.35pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf Graphic f
+ile (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
+ieVV1.pdf  used on input line 98. on input line 98.
+Package pdftex.def Info: Requested size: 273.14923pt x 273.15117pt on input lin
+e 98.
+ [48 <./Images/Opracowanie/Tensor-Cc.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf, id=382, pageb
+ox=cropbox, 361.35pt x 361.35pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf Graphic f
+ile (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
+ieVV4.pdf  used on input line 105. on input line 105.
+Package pdftex.def Info: Requested size: 273.14923pt x 273.15117pt on input lin
+e 105.
+ [49 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf>]
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf, id=394, pageb
+ox=cropbox, 361.35pt x 361.35pt>
+File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf Graphic f
+ile (type pdf)
+<use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf>
+Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
+ieVV7.pdf  used on input line 112. on input line 112.
+Package pdftex.def Info: Requested size: 273.14923pt x 273.15117pt on input lin
+e 112.
+
+[50 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf>])
+(dyplom-podsumowanie.tex [51 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/do
+pasowanieVV7.pdf>]) (bibliografija.tex [52]
 Underfull \hbox (badness 1308) in paragraph at lines 9--10
 []\T1/cmr/m/n/10.95 Adrian Ka-mi«-ski, In-sty-tut Fi-zyki UAM $\OT1/cmr/m/n/10.
 95 "$\T1/cmr/m/n/10.95 Spektroskopia Ra-mana  drga-nia i widmo
  []
 
-[45] [46]) [47] (dyplom.aux) ) 
+[53] [54]) [55] (dyplom.aux) ) 
 Here is how much of TeX's memory you used:
- 6649 strings out of 495169
- 98583 string characters out of 3180275
+ 6672 strings out of 495169
+ 99797 string characters out of 3180275
  182918 words of memory out of 3000000
- 9721 multiletter control sequences out of 15000+200000
+ 9738 multiletter control sequences out of 15000+200000
  24838 words of font info for 64 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
- 39i,16n,34p,2652b,1559s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,16n,34p,1859b,1559s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/f
 onts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
@@ -1327,22 +1370,23 @@ sfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y8.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-su
-per/sfbx1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/pu
-blic/cm-super/sfbx1200.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/font
-s/type1/public/cm-super/sfbx1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTe
-X/2.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roa
-ming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users/Overshadow/A
-ppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Ov
-ershadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C
-:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1
-095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-s
-uper/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/p
-ublic/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fon
-ts/type1/public/cm-super/sfxc2488.pfb>
-Output written on dyplom.pdf (48 pages, 8770224 bytes).
+y6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super
+/sfbx1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
+c/cm-super/sfbx1200.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/t
+ype1/public/cm-super/sfbx1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roamin
+g/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users/Overshadow/AppD
+ata/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Overs
+hadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/U
+sers/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095
+.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-supe
+r/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/publ
+ic/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/
+type1/public/cm-super/sfxc2488.pfb>
+Output written on dyplom.pdf (56 pages, 10422166 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
+ 507 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
