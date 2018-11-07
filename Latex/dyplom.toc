@@ -1,27 +1,27 @@
-\select@language {polish}
+\babel@toc {polish}{}
 \contentsline {section}{\numberline {1}W\IeC {\l }asno\IeC {\'s}ci}{7}
 \contentsline {subsection}{\numberline {1.1}Fazy krystaliczne siarczku galu}{7}
-\contentsline {subsection}{\numberline {1.2}W\IeC {\l }asno\IeC {\'s}ci i zastosowania $\mathbf {Ga_{2}S_{3}}$}{15}
-\contentsline {subsubsection}{\numberline {1.2.1}W\IeC {\l }asno\IeC {\'s}ci}{16}
-\contentsline {subsubsection}{\numberline {1.2.2}Zastosowania}{16}
-\contentsline {subsection}{\numberline {1.3}Widmo ramanowskie $\mathbf {Ga_{2}S_{3}}$}{17}
-\contentsline {section}{\numberline {2}Rozpraszanie ramanowskie}{19}
-\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska?}{19}
-\contentsline {subsection}{\numberline {2.2}Opis matematyczny}{19}
-\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie ramanowskim}{21}
-\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska Ramana}{22}
-\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{22}
-\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{23}
-\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{24}
-\contentsline {subsection}{\numberline {2.6}Fonony w materiale}{25}
-\contentsline {subsection}{\numberline {2.7}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma ramanowskiego?}{27}
-\contentsline {subsection}{\numberline {2.8}Piki ramanowskie w cienkich warstwach}{28}
-\contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{29}
-\contentsline {subsection}{\numberline {2.10}Widmo ramanowskie w funkcji polaryzacji}{30}
-\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{33}
-\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{33}
-\contentsline {subsection}{\numberline {3.2}Technologia wytwarzania warstwy $\mathbf {Ga_{2}S_{3}}$}{35}
-\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{38}
-\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{46}
-\contentsline {section}{\numberline {6}Podsumowanie}{52}
-\contentsline {section}{Bibliografia}{53}
+\contentsline {subsection}{\numberline {1.2}W\IeC {\l }asno\IeC {\'s}ci i zastosowania $\mathbf {Ga_{2}S_{3}}$}{14}
+\contentsline {subsubsection}{\numberline {1.2.1}W\IeC {\l }asno\IeC {\'s}ci}{15}
+\contentsline {subsubsection}{\numberline {1.2.2}Zastosowania}{15}
+\contentsline {subsection}{\numberline {1.3}Widmo ramanowskie $\mathbf {Ga_{2}S_{3}}$}{16}
+\contentsline {section}{\numberline {2}Rozpraszanie ramanowskie}{18}
+\contentsline {subsection}{\numberline {2.1}Czym jest spektroskopia ramanowska?}{18}
+\contentsline {subsection}{\numberline {2.2}Opis matematyczny}{18}
+\contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie ramanowskim}{20}
+\contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska Ramana}{21}
+\contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{21}
+\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{22}
+\contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{23}
+\contentsline {subsection}{\numberline {2.6}Fonony w materiale}{24}
+\contentsline {subsection}{\numberline {2.7}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma ramanowskiego?}{26}
+\contentsline {subsection}{\numberline {2.8}Piki ramanowskie w cienkich warstwach}{27}
+\contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{28}
+\contentsline {subsection}{\numberline {2.10}Widmo ramanowskie w funkcji polaryzacji}{29}
+\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{31}
+\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{31}
+\contentsline {subsection}{\numberline {3.2}Technologia wytwarzania warstwy $\mathbf {Ga_{2}S_{3}}$}{33}
+\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{36}
+\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{44}
+\contentsline {section}{\numberline {6}Podsumowanie}{49}
+\contentsline {section}{Bibliografia}{50}
