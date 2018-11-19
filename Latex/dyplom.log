@@ -1,62 +1,375 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.2)  7 NOV 2018 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  15 NOV 2018 20:41
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
-LaTeX2e <2018-04-01> patch level 5
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 2 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2018/04/06 v1.3b Input encoding file
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/06/05 3.22 The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/11/03 3.15 The Babel package
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/06/05 3.22 Babel switching mechanism
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-polish\polish.
-ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-polish\polish.ldf"
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/11/03 3.15 Babel common definitions
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
-")
-\bbl@dirlevel=\count89
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+\babel@savecnt=\count87
+\U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 83.
 \pl@left=\dimen104
@@ -64,122 +377,112 @@ Package babel Info: Making " an active character on input line 83.
 \pl@right=\dimen106
 \pl@temp=\dimen107
 ))
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\polski.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\polski.sty"
 Package: polski 2017/05/04 v1.3.4 Polish language package
 
    Inputenc package detected. Catcodes not changed.
-) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\here\here.sty")
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count90
-\float@exts=\toks16
-\float@box=\box26
-\@float@everytoks=\toks17
-\@floatcapt=\box27
-)
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.st
-y"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\here.sty")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip43
-\multirow@cntb=\count91
+\multirow@cntb=\count88
 \multirow@dima=\skip44
 \bigstrutjot=\dimen108
-) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen109
-\ar@mcellbox=\box28
 \extrarowheight=\dimen110
-\NC@list=\toks18
+\NC@list=\toks16
 \extratabsurround=\skip45
 \backup@length=\skip46
-\ar@cellbox=\box29
-) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks17
 \ex@=\dimen111
-)) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
-y"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen112
-) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count89
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count90
+\leftroot@=\count91
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count92
+\DOTSCASE@=\count93
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box30
-\strutbox@=\box31
+\Mathstrutbox@=\box26
+\strutbox@=\box27
 \big@size=\dimen113
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
-\tag@help=\toks20
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
-\andhelp@=\toks21
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
 \eqnshift@=\dimen114
 \alignsep@=\dimen115
 \tagshift@=\dimen116
 \tagwidth@=\dimen117
 \totwidth@=\dimen118
 \lineht@=\dimen119
-\@envbody=\toks22
+\@envbody=\toks20
 \multlinegap=\skip48
 \multlinetaggap=\skip49
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.
-sty"
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+Package: mathtools 2017/10/30 v1.20 mathematical typesetting tools
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-) ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count104
-\calc@Bcount=\count105
+\KV@toks@=\toks22
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
 \calc@Adimen=\dimen120
 \calc@Bdimen=\dimen121
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count106
+\calc@Ccount=\count103
 \calc@Cskip=\skip52
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count107
+\g_MT_multlinerow_int=\count104
 \l_MT_multwidth_dim=\dimen122
 \origjot=\skip53
 \l_MT_shortvdotswithinadjustabove_dim=\dimen123
@@ -189,58 +492,49 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen127
 \l_MT_below_shortintertext_sep=\dimen128
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\listingsutf
-8.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty"
 Package: listingsutf8 2016/05/16 v1.3 Allow UTF-8 in listings input (HO)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.st
-y"
-\lst@mode=\count108
-\lst@gtempboxa=\box32
-\lst@token=\toks25
-\lst@length=\count109
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count105
+\lst@gtempboxa=\box28
+\lst@token=\toks23
+\lst@length=\count106
 \lst@currlwidth=\dimen129
-\lst@column=\count110
-\lst@pos=\count111
+\lst@column=\count107
+\lst@pos=\count108
 \lst@lostspace=\dimen130
 \lst@width=\dimen131
-\lst@newlines=\count112
-\lst@lineno=\count113
+\lst@newlines=\count109
+\lst@lineno=\count110
 \lst@maxwidth=\dimen132
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count114
-\lst@skipnumbers=\count115
-\lst@framebox=\box33
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box29
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cf
-g"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmd
-s.sty"
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -248,40 +542,34 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\stringenc
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty"
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 )))
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.c
-fg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.
-def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphic
-s.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -289,22 +577,19 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen133
 \Gin@req@width=\dimen134
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.st
-y"
-Package: geometry 2018/04/16 v5.8 Page Geometry
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count116
-\Gm@cntv=\count117
-\c@Gm@tempcnt=\count118
+\Gm@cnth=\count113
+\Gm@cntv=\count114
+\c@Gm@tempcnt=\count115
 \Gm@bindingoffset=\dimen135
 \Gm@wd@mp=\dimen136
 \Gm@odd@mp=\dimen137
@@ -313,10 +598,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen140
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
-\Gm@dimlist=\toks26
+\Gm@dimlist=\toks24
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cf
-g")) (dyplom.aux)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(dyplom.aux)
 \openout1 = `dyplom.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -331,44 +616,36 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
-\c@lstlisting=\count119
-
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
-"
+\c@lstlisting=\count116
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
+\scratchcounter=\count117
 \scratchdimen=\dimen143
-\scratchbox=\box34
-\nofMPsegments=\count121
-\nofMParguments=\count122
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count123
+\scratchbox=\box30
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count120
 \MPscratchDim=\dimen144
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
-\everyMPtoPDFconversion=\toks28
-)
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-ba
-se.sty"
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks26
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinek
-eys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -420,20 +697,22 @@ G,.JBIG2,.JB2,.eps]
 <Images/logo2.png, id=1, 307.74976pt x 68.05424pt>
 File: Images/logo2.png Graphic file (type png)
 <use Images/logo2.png>
-Package pdftex.def Info: Images/logo2.png  used on input line 4.
-(pdftex.def)             Requested size: 273.14923pt x 60.40814pt.
+Package pdftex.def Info: Images/logo2.png  used on input line 4. on input line 
+4.
+Package pdftex.def Info: Requested size: 273.14923pt x 60.40814pt on input line
+ 4.
  [1
 
-{C:/Users/vit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Images/logo
-2.png>]) (dyplom-streszczenie.tex [1] [2] [3] [4] [5])
-(dyplom.toc)
+{C:/Users/Overshadow/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imag
+es/logo2.png>]) (dyplom-streszczenie.tex [1] [2] [3]
+[4] [5]) (dyplom.toc)
 \tf@toc=\write3
 \openout3 = `dyplom.toc'.
 
  (dyplom-wlasciwosci.tex [6]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
 
-("C:\Users\vit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
@@ -442,67 +721,76 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 File: Images/Wlasciwosci/GaS/GaS_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/GaS/GaS_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/GaS/GaS_vesta.png  used on input li
-ne 23.
-(pdftex.def)             Requested size: 295.90588pt x 172.2881pt.
-
-[7 <./Images/Wlasciwosci/GaS/GaS_vesta.png>]
+ne 23. on input line 23.
+Package pdftex.def Info: Requested size: 295.90588pt x 172.2881pt on input line
+ 23.
+ [7 <./Images/Wlasciwosci/GaS/GaS_vesta.png>]
 <Images/Wlasciwosci/Przekroj_Ga2S3.png, id=46, 522.15076pt x 211.992pt>
 File: Images/Wlasciwosci/Przekroj_Ga2S3.png Graphic file (type png)
 <use Images/Wlasciwosci/Przekroj_Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Przekroj_Ga2S3.png  used on input l
-ine 49.
-(pdftex.def)             Requested size: 455.24411pt x 184.83588pt.
+ine 49. on input line 49.
+Package pdftex.def Info: Requested size: 427.86905pt x 173.72133pt on input lin
+e 49.
 <Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_a.png, id=47, 408.92775pt x 271.0125pt>
 File: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_a.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_a.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_a.png  used on input
- line 56.
-(pdftex.def)             Requested size: 213.96529pt x 141.80399pt.
+ line 56. on input line 56.
+Package pdftex.def Info: Requested size: 201.09897pt x 133.27698pt on input lin
+e 56.
 <Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_b.png, id=48, 445.06274pt x 346.896pt>
 File: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_b.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_b.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_b.png  used on input
- line 60.
-(pdftex.def)             Requested size: 213.96529pt x 166.77284pt.
+ line 60. on input line 60.
+Package pdftex.def Info: Requested size: 201.09897pt x 156.74751pt on input lin
+e 60.
 <Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_c.png, id=49, 405.9165pt x 274.626pt>
 File: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_c.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_c.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_c.png  used on input
- line 64.
-(pdftex.def)             Requested size: 213.96529pt x 144.75908pt.
+ line 64. on input line 64.
+Package pdftex.def Info: Requested size: 201.09897pt x 136.05551pt on input lin
+e 64.
 <Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_vesta.png, id=50, 516.12825pt x 344.487pt>
 File: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_vesta.png  used on i
-nput line 68.
-(pdftex.def)             Requested size: 213.96529pt x 142.80699pt.
+nput line 68. on input line 68.
+Package pdftex.def Info: Requested size: 201.09897pt x 134.21797pt on input lin
+e 68.
 <Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_a.png, id=51, 366.168pt x 253.54726pt>
 File: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_a.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_a.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_a.png  used on input
- line 72.
-(pdftex.def)             Requested size: 213.96529pt x 148.16011pt.
+ line 72. on input line 72.
+Package pdftex.def Info: Requested size: 201.09897pt x 139.25023pt on input lin
+e 72.
 <Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_b.png, id=52, 364.9635pt x 254.75175pt>
 File: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_b.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_b.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_b.png  used on input
- line 76.
-(pdftex.def)             Requested size: 213.96529pt x 149.35374pt.
+ line 76. on input line 76.
+Package pdftex.def Info: Requested size: 201.09897pt x 140.37433pt on input lin
+e 76.
 <Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_c.png, id=53, 534.19576pt x 284.86424pt>
 File: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_c.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_c.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_c.png  used on input
- line 80.
-(pdftex.def)             Requested size: 213.96529pt x 114.10014pt.
+ line 80. on input line 80.
+Package pdftex.def Info: Requested size: 201.09897pt x 107.23676pt on input lin
+e 80.
 <Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_vesta.png, id=54, 557.08125pt x 324.61275pt>
 
 File: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_vesta.png  used on i
-nput line 84.
-(pdftex.def)             Requested size: 213.96529pt x 124.67662pt.
+nput line 84. on input line 84.
+Package pdftex.def Info: Requested size: 201.09897pt x 117.17749pt on input lin
+e 84.
  [8 <./Images/Wlasciwosci/Przekroj_Ga2S3.png>]
-Overfull \vbox (22.63684pt too high) has occurred while \output is active []
+Overfull \vbox (0.9294pt too high) has occurred while \output is active []
 
 
 [9 <./Images/Wlasciwosci/Ga2S3/Cc/Ga2S3_a.png> <./Images/Wlasciwosci/Ga2S3/Cc/G
@@ -514,52 +802,60 @@ Wlasciwosci/Ga2S3/Bb/Ga2S3_b.png> <./Images/Wlasciwosci/Ga2S3/Bb/Ga2S3_c.png> <
 File: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_a.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_a.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_a.png  used on inp
-ut line 93.
-(pdftex.def)             Requested size: 213.96529pt x 180.76033pt.
+ut line 93. on input line 93.
+Package pdftex.def Info: Requested size: 201.09897pt x 169.88786pt on input lin
+e 93.
 <Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_b.png, id=74, 446.26724pt x 302.93175pt>
 File: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_b.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_b.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_b.png  used on inp
-ut line 97.
-(pdftex.def)             Requested size: 213.96529pt x 145.23917pt.
+ut line 97. on input line 97.
+Package pdftex.def Info: Requested size: 201.09897pt x 136.50754pt on input lin
+e 97.
 <Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_c.png, id=75, 397.485pt x 306.54526pt>
 File: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_c.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_c.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_c.png  used on inp
-ut line 101.
-(pdftex.def)             Requested size: 213.96529pt x 165.01744pt.
+ut line 101. on input line 101.
+Package pdftex.def Info: Requested size: 201.09897pt x 155.09178pt on input lin
+e 101.
 <Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_vesta.png, id=76, 504.6855pt x 328.22626pt
 >
 File: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_vesta.png  used on
- input line 105.
-(pdftex.def)             Requested size: 213.96529pt x 139.15625pt.
+ input line 105. on input line 105.
+Package pdftex.def Info: Requested size: 201.09897pt x 130.78734pt on input lin
+e 105.
 <Images/Wlasciwosci/Ga2S3/beta/Ga2S3_a.png, id=77, 348.70274pt x 397.485pt>
 File: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_a.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/beta/Ga2S3_a.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_a.png  used on inp
-ut line 115.
-(pdftex.def)             Requested size: 213.96529pt x 243.90292pt.
+ut line 115. on input line 115.
+Package pdftex.def Info: Requested size: 201.09897pt x 229.23746pt on input lin
+e 115.
 <Images/Wlasciwosci/Ga2S3/beta/Ga2S3_b.png, id=78, 442.0515pt x 296.307pt>
 File: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_b.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/beta/Ga2S3_b.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_b.png  used on inp
-ut line 119.
-(pdftex.def)             Requested size: 213.96529pt x 143.41936pt.
+ut line 119. on input line 119.
+Package pdftex.def Info: Requested size: 201.09897pt x 134.79729pt on input lin
+e 119.
 <Images/Wlasciwosci/Ga2S3/beta/Ga2S3_c.png, id=79, 375.804pt x 286.06876pt>
 File: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_c.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/beta/Ga2S3_c.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_c.png  used on inp
-ut line 123.
-(pdftex.def)             Requested size: 213.96529pt x 162.87318pt.
+ut line 123. on input line 123.
+Package pdftex.def Info: Requested size: 201.09897pt x 153.08237pt on input lin
+e 123.
 <Images/Wlasciwosci/Ga2S3/beta/Ga2S3_vesta.png, id=80, 449.2785pt x 428.19975pt
 >
 File: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/beta/Ga2S3_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/beta/Ga2S3_vesta.png  used on
- input line 127.
-(pdftex.def)             Requested size: 213.96529pt x 203.92622pt.
+ input line 127. on input line 127.
+Package pdftex.def Info: Requested size: 201.09897pt x 191.66882pt on input lin
+e 127.
  [10 <./Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_a.png> <./Images/Wlasciwosci/Ga2S3/
 alfa/Ga2S3_b.png> <./Images/Wlasciwosci/Ga2S3/alfa/Ga2S3_c.png> <./Images/Wlasc
 iwosci/Ga2S3/alfa/Ga2S3_vesta.png>]
@@ -568,14 +864,16 @@ t>
 File: Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_vesta.png  used o
-n input line 137.
-(pdftex.def)             Requested size: 171.17287pt x 137.18855pt.
+n input line 137. on input line 137.
+Package pdftex.def Info: Requested size: 160.87978pt x 128.9408pt on input line
+ 137.
 <Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_a.png, id=90, 386.04225pt x 311.36325pt>
 File: Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_a.png Graphic file (type png)
 <use Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_a.png>
 Package pdftex.def Info: Images/Wlasciwosci/Ga2S3/gamma/Ga2S3_a.png  used on in
-put line 141.
-(pdftex.def)             Requested size: 171.17287pt x 138.05972pt.
+put line 141. on input line 141.
+Package pdftex.def Info: Requested size: 160.87978pt x 129.7597pt on input line
+ 141.
  [11 <./Images/Wlasciwosci/Ga2S3/beta/Ga2S3_a.png> <./Images/Wlasciwosci/Ga2S3/
 beta/Ga2S3_b.png> <./Images/Wlasciwosci/Ga2S3/beta/Ga2S3_c.png> <./Images/Wlasc
 iwosci/Ga2S3/beta/Ga2S3_vesta.png>]
@@ -634,8 +932,9 @@ Overfull \hbox (54.3136pt too wide) in paragraph at lines 252--253
 File: Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png Graphic file (type png)
 <use Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Widmo-absorpcji-Ga2S3.png  used on 
-input line 281.
-(pdftex.def)             Requested size: 364.19667pt x 221.48732pt.
+input line 281. on input line 281.
+Package pdftex.def Info: Requested size: 364.19667pt x 221.48732pt on input lin
+e 281.
 
 Overfull \hbox (0.86354pt too wide) in paragraph at lines 287--288
 \T1/cmr/m/n/10.95 swoj¡ sko-±n¡ i sze-rok¡ prze-rw¦ ener-ge-tyczn¡). Struk-tura
@@ -647,8 +946,9 @@ Overfull \hbox (0.86354pt too wide) in paragraph at lines 287--288
 File: Images/Wlasciwosci/Raman-Ga2S3.png Graphic file (type png)
 <use Images/Wlasciwosci/Raman-Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Raman-Ga2S3.png  used on input line
- 306.
-(pdftex.def)             Requested size: 455.24411pt x 248.92636pt.
+ 306. on input line 306.
+Package pdftex.def Info: Requested size: 455.24411pt x 248.92636pt on input lin
+e 306.
  [16 <./Images/Wlasciwosci/Raman-Ga2S3.png>]) (dyplom-Rozpraszanie-Ramanowskie.
 tex [17] [18]
 <Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png, id=128, 419.7
@@ -657,16 +957,18 @@ File: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanows
-kiego.png  used on input line 63.
-(pdftex.def)             Requested size: 455.24411pt x 241.67215pt.
+kiego.png  used on input line 63. on input line 63.
+Package pdftex.def Info: Requested size: 455.24411pt x 241.67215pt on input lin
+e 63.
  [19]
 <Images/Rozpraszanie-Ramanowskie/Raman-Energy.png, id=133, 615.4995pt x 303.534
 pt>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Energy.png  used
- on input line 83.
-(pdftex.def)             Requested size: 455.24411pt x 224.51437pt.
+ on input line 83. on input line 83.
+Package pdftex.def Info: Requested size: 455.24411pt x 224.51437pt on input lin
+e 83.
 
 [20 <./Images/Rozpraszanie-Ramanowskie/Schemat-widma-Ramanowskiego.png>]
 <Images/Rozpraszanie-Ramanowskie/Point-Dipol.png, id=138, 398.6895pt x 314.3745
@@ -674,8 +976,9 @@ pt>
 File: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Point-Dipol.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Point-Dipol.png  used 
-on input line 103.
-(pdftex.def)             Requested size: 273.14923pt x 215.38359pt.
+on input line 103. on input line 103.
+Package pdftex.def Info: Requested size: 273.14923pt x 215.38359pt on input lin
+e 103.
 
 [21 <./Images/Rozpraszanie-Ramanowskie/Raman-Energy.png>] [22 <./Images/Rozpras
 zanie-Ramanowskie/Point-Dipol.png>]
@@ -684,8 +987,9 @@ pt>
 File: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie/Raman-Shift.png  used 
-on input line 130.
-(pdftex.def)             Requested size: 364.19667pt x 235.19318pt.
+on input line 130. on input line 130.
+Package pdftex.def Info: Requested size: 364.19667pt x 235.19318pt on input lin
+e 130.
 ) (dyplom-Rozpraszanie-Ramanowskie-2.tex
 [23 <./Images/Rozpraszanie-Ramanowskie/Raman-Shift.png>]
 <Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png, id=152, 509.5035pt x 467.9
@@ -694,8 +998,9 @@ File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png Graphic file (type png
 )
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png  us
-ed on input line 20.
-(pdftex.def)             Requested size: 273.14923pt x 250.86751pt.
+ed on input line 20. on input line 20.
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
+e 20.
  [24 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons.png>]
 <Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png, id=158, 509.5035pt x
  467.94826pt>
@@ -703,15 +1008,17 @@ File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png Graphic file (ty
 pe png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.p
-ng  used on input line 54.
-(pdftex.def)             Requested size: 273.14923pt x 250.86751pt.
+ng  used on input line 54. on input line 54.
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
+e 54.
  [25 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenter.png>]
 <Images/Full_width_at_half_maximum.png, id=164, 339.2675pt x 189.70876pt>
 File: Images/Full_width_at_half_maximum.png Graphic file (type png)
 <use Images/Full_width_at_half_maximum.png>
 Package pdftex.def Info: Images/Full_width_at_half_maximum.png  used on input l
-ine 95.
-(pdftex.def)             Requested size: 364.19667pt x 203.65793pt.
+ine 95. on input line 95.
+Package pdftex.def Info: Requested size: 364.19667pt x 203.65793pt on input lin
+e 95.
  [26 <./Images/Full_width_at_half_maximum.png>]
 <Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png, id=170, 509.5
 035pt x 467.94826pt>
@@ -719,15 +1026,17 @@ File: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png Graphic f
 ile (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQu
-antum.png  used on input line 123.
-(pdftex.def)             Requested size: 273.14923pt x 250.86751pt.
+antum.png  used on input line 123. on input line 123.
+Package pdftex.def Info: Requested size: 273.14923pt x 250.86751pt on input lin
+e 123.
 <Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png, id=171, 399.29175pt x 261.978
 74pt>
 File: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png Graphic file (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png  used 
-on input line 132.
-(pdftex.def)             Requested size: 318.66948pt x 209.08359pt.
+on input line 132. on input line 132.
+Package pdftex.def Info: Requested size: 318.66948pt x 209.08359pt on input lin
+e 132.
 
 [27 <./Images/Rozpraszanie-Ramanowskie-Ciekie/PhononsCenterQuantum.png>]
 <Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png, id=176, 509.5035p
@@ -736,316 +1045,351 @@ File: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png Graphic file
 (type png)
 <use Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>
 Package pdftex.def Info: Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposit
-e.png  used on input line 144.
-(pdftex.def)             Requested size: 250.38564pt x 229.9607pt.
+e.png  used on input line 144. on input line 144.
+Package pdftex.def Info: Requested size: 250.38564pt x 229.9607pt on input line
+ 144.
 
-[28 <./Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png> <./Images/Rozpraszanie-
-Ramanowskie-Ciekie/Phonons_opposite.png>]
-<Images/Wlasciwosci/Spectre-polarization-Ga2S3.png, id=182, 368.577pt x 280.648
+[28 <./Images/Rozpraszanie-Ramanowskie-Ciekie/piki.png>]
+<Images/Wlasciwosci/Spectre-polarization-Ga2S3.png, id=181, 368.577pt x 280.648
 5pt>
 File: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png Graphic file (type png)
 
 <use Images/Wlasciwosci/Spectre-polarization-Ga2S3.png>
 Package pdftex.def Info: Images/Wlasciwosci/Spectre-polarization-Ga2S3.png  use
-d on input line 157.
-(pdftex.def)             Requested size: 364.19667pt x 277.32042pt.
-<Images/Wlasciwosci/Raman-Tensor.png, id=183, 273.27094pt x 100.87688pt>
+d on input line 157. on input line 157.
+Package pdftex.def Info: Requested size: 364.19667pt x 277.32042pt on input lin
+e 157.
+ [29 <./Images/Rozpraszanie-Ramanowskie-Ciekie/Phonons_opposite.png>]
+<Images/Wlasciwosci/Raman-Tensor.png, id=186, 273.27094pt x 100.87688pt>
 File: Images/Wlasciwosci/Raman-Tensor.png Graphic file (type png)
 <use Images/Wlasciwosci/Raman-Tensor.png>
 Package pdftex.def Info: Images/Wlasciwosci/Raman-Tensor.png  used on input lin
-e 179.
-(pdftex.def)             Requested size: 227.62206pt x 84.02638pt.
- [29 <./Images/Wlasciwosci/Spectre-polarization-Ga2S3.png>]) (dyplom-przygotowa
-nie-probek-do-badan.tex [30 <./Images/Wlasciwosci/Raman-Tensor.png>]
-<Images/Przygotowania/Uklad-pomiarowy.png, id=193, 749.199pt x 427.5975pt>
+e 179. on input line 179.
+Package pdftex.def Info: Requested size: 227.62206pt x 84.02638pt on input line
+ 179.
+ [30 <./Images/Wlasciwosci/Spectre-polarization-Ga2S3.png> <./Images/Wlasciwosc
+i/Raman-Tensor.png>])
+(dyplom-przygotowanie-probek-do-badan.tex [31]
+<Images/Przygotowania/Uklad-pomiarowy.png, id=196, 749.199pt x 427.5975pt>
 File: Images/Przygotowania/Uklad-pomiarowy.png Graphic file (type png)
 <use Images/Przygotowania/Uklad-pomiarowy.png>
 Package pdftex.def Info: Images/Przygotowania/Uklad-pomiarowy.png  used on inpu
-t line 9.
-(pdftex.def)             Requested size: 455.24411pt x 259.82277pt.
- [31 <./Images/Przygotowania/Uklad-pomiarowy.png>]
-<Images/Przygotowania/Spektroskop.png, id=198, 377.775pt x 212.5395pt>
+t line 9. on input line 9.
+Package pdftex.def Info: Requested size: 455.24411pt x 259.82277pt on input lin
+e 9.
+ [32 <./Images/Przygotowania/Uklad-pomiarowy.png>]
+<Images/Przygotowania/Spektroskop.png, id=201, 377.775pt x 212.5395pt>
 File: Images/Przygotowania/Spektroskop.png Graphic file (type png)
 <use Images/Przygotowania/Spektroskop.png>
 Package pdftex.def Info: Images/Przygotowania/Spektroskop.png  used on input li
-ne 49.
-(pdftex.def)             Requested size: 364.19667pt x 204.91122pt.
- [32]
-<Images/Przygotowania/SLA39-50x-plytkiGa2S3.png, id=202, 566.115pt x 361.35pt>
+ne 49. on input line 49.
+Package pdftex.def Info: Requested size: 364.19667pt x 204.91122pt on input lin
+e 49.
+ [33]
+<Images/Przygotowania/SLA39-50x-plytkiGa2S3.png, id=205, 566.115pt x 361.35pt>
 File: Images/Przygotowania/SLA39-50x-plytkiGa2S3.png Graphic file (type png)
 <use Images/Przygotowania/SLA39-50x-plytkiGa2S3.png>
 Package pdftex.def Info: Images/Przygotowania/SLA39-50x-plytkiGa2S3.png  used o
-n input line 72.
-(pdftex.def)             Requested size: 182.09833pt x 116.22984pt.
-<Images/Przygotowania/long50x.png, id=203, 566.115pt x 361.35pt>
+n input line 72. on input line 72.
+Package pdftex.def Info: Requested size: 182.09833pt x 116.22984pt on input lin
+e 72.
+<Images/Przygotowania/long50x.png, id=206, 566.115pt x 361.35pt>
 File: Images/Przygotowania/long50x.png Graphic file (type png)
 <use Images/Przygotowania/long50x.png>
 Package pdftex.def Info: Images/Przygotowania/long50x.png  used on input line 7
-6.
-(pdftex.def)             Requested size: 182.09833pt x 116.22984pt.
+6. on input line 76.
+Package pdftex.def Info: Requested size: 182.09833pt x 116.22984pt on input lin
+e 76.
 
 Overfull \hbox (2.42162pt too wide) in paragraph at lines 71--78
 []$[]$  $[]$ 
  []
 
-[33 <./Images/Przygotowania/Spektroskop.png>]
-<Images/Wlasciwosci/SLA39_MIX_5000.jpg, id=207, 3597.44pt x 3315.38625pt>
+[34 <./Images/Przygotowania/Spektroskop.png>]
+<Images/Wlasciwosci/SLA39_MIX_5000.jpg, id=210, 3597.44pt x 3315.38625pt>
 File: Images/Wlasciwosci/SLA39_MIX_5000.jpg Graphic file (type jpg)
 <use Images/Wlasciwosci/SLA39_MIX_5000.jpg>
 Package pdftex.def Info: Images/Wlasciwosci/SLA39_MIX_5000.jpg  used on input l
-ine 83.
-(pdftex.def)             Requested size: 149.77504pt x 138.00584pt.
-<Images/Wlasciwosci/SLA39_MIX_10000.jpg, id=208, 3597.44pt x 3315.38625pt>
+ine 83. on input line 83.
+Package pdftex.def Info: Requested size: 149.77504pt x 138.00584pt on input lin
+e 83.
+<Images/Wlasciwosci/SLA39_MIX_10000.jpg, id=211, 3597.44pt x 3315.38625pt>
 File: Images/Wlasciwosci/SLA39_MIX_10000.jpg Graphic file (type jpg)
 <use Images/Wlasciwosci/SLA39_MIX_10000.jpg>
 Package pdftex.def Info: Images/Wlasciwosci/SLA39_MIX_10000.jpg  used on input 
-line 87.
-(pdftex.def)             Requested size: 149.77504pt x 138.00584pt.
-<Images/Przygotowania/SEM.png, id=209, 284.262pt x 228.25275pt>
+line 87. on input line 87.
+Package pdftex.def Info: Requested size: 149.77504pt x 138.00584pt on input lin
+e 87.
+<Images/Przygotowania/SEM.png, id=212, 284.262pt x 228.25275pt>
 File: Images/Przygotowania/SEM.png Graphic file (type png)
 <use Images/Przygotowania/SEM.png>
-Package pdftex.def Info: Images/Przygotowania/SEM.png  used on input line 94.
-(pdftex.def)             Requested size: 250.38564pt x 201.05806pt.
- [34 <./Images/Przygotowania/SLA39-50x-plytkiGa2S3.png> <./Images/Przygotowania
+Package pdftex.def Info: Images/Przygotowania/SEM.png  used on input line 94. o
+n input line 94.
+Package pdftex.def Info: Requested size: 250.38564pt x 201.05806pt on input lin
+e 94.
+ [35 <./Images/Przygotowania/SLA39-50x-plytkiGa2S3.png> <./Images/Przygotowania
 /long50x.png> <./Images/Wlasciwosci/SLA39_MIX_5000.jpg> <./Images/Wlasciwosci/S
 LA39_MIX_10000.jpg> <./Images/Przygotowania/SEM.png>]) (dyplom-wyniki-badan.tex
- [35]
-<Images/Wyniki/Raman/plotGapWithGa2S3.png, id=218, 578.16pt x 418.56375pt>
+ [36]
+<Images/Wyniki/Raman/plotGapWithGa2S3.png, id=222, 578.16pt x 418.56375pt>
 File: Images/Wyniki/Raman/plotGapWithGa2S3.png Graphic file (type png)
 <use Images/Wyniki/Raman/plotGapWithGa2S3.png>
 Package pdftex.def Info: Images/Wyniki/Raman/plotGapWithGa2S3.png  used on inpu
-t line 9.
-(pdftex.def)             Requested size: 364.19667pt x 263.65822pt.
-<Images/Wyniki/Raman/plotGaP.png, id=219, 578.16pt x 418.56375pt>
+t line 9. on input line 9.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 9.
+<Images/Wyniki/Raman/plotGaP.png, id=223, 578.16pt x 418.56375pt>
 File: Images/Wyniki/Raman/plotGaP.png Graphic file (type png)
 <use Images/Wyniki/Raman/plotGaP.png>
 Package pdftex.def Info: Images/Wyniki/Raman/plotGaP.png  used on input line 22
-.
-(pdftex.def)             Requested size: 364.19667pt x 263.65822pt.
- [36 <./Images/Wyniki/Raman/plotGapWithGa2S3.png>]
-<Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf, id=225, 260.975pt x 287.0725pt>
-
+. on input line 22.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 22.
+ [37 <./Images/Wyniki/Raman/plotGapWithGa2S3.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf, id=228, pagebox=cropbox, 260.97
+5pt x 287.0725pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot5GaP.pdf  used on
- input line 30.
-(pdftex.def)             Requested size: 182.09833pt x 200.30984pt.
-<Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf, id=226, 260.975pt x 287.0725pt>
-
+ input line 30. on input line 30.
+Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
+e 30.
+<Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf, id=229, pagebox=cropbox, 260.97
+5pt x 287.0725pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf  used on
- input line 34.
-(pdftex.def)             Requested size: 182.09833pt x 200.30984pt.
+ input line 34. on input line 34.
+Package pdftex.def Info: Requested size: 182.09833pt x 200.30984pt on input lin
+e 34.
 
 Overfull \hbox (2.42162pt too wide) in paragraph at lines 29--36
 []$[]$  $[]$ 
  []
 
-<Images/Wyniki/Raman/plotVVandVH.png, id=227, 578.16pt x 418.56375pt>
-File: Images/Wyniki/Raman/plotVVandVH.png Graphic file (type png)
-<use Images/Wyniki/Raman/plotVVandVH.png>
-Package pdftex.def Info: Images/Wyniki/Raman/plotVVandVH.png  used on input lin
-e 43.
-(pdftex.def)             Requested size: 364.19667pt x 263.65822pt.
-[37 <./Images/Wyniki/Raman/plotGaP.png> <./Images/Wyniki/WidmoPolaryzacyjne/plo
+[38 <./Images/Wyniki/Raman/plotGaP.png> <./Images/Wyniki/WidmoPolaryzacyjne/plo
 t5GaP.pdf> <./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot7GaP.
 pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/Raman/plotAllVV.pdf, id=246, 578.16pt x 381.425pt>
+<Images/Wyniki/Raman/plotVVandVH.png, id=248, 578.16pt x 418.56375pt>
+File: Images/Wyniki/Raman/plotVVandVH.png Graphic file (type png)
+<use Images/Wyniki/Raman/plotVVandVH.png>
+Package pdftex.def Info: Images/Wyniki/Raman/plotVVandVH.png  used on input lin
+e 43. on input line 43.
+Package pdftex.def Info: Requested size: 364.19667pt x 263.65822pt on input lin
+e 43.
+<Images/Wyniki/Raman/plotAllVV.pdf, id=249, pagebox=cropbox, 578.16pt x 381.425
+pt>
 File: Images/Wyniki/Raman/plotAllVV.pdf Graphic file (type pdf)
 <use Images/Wyniki/Raman/plotAllVV.pdf>
 Package pdftex.def Info: Images/Wyniki/Raman/plotAllVV.pdf  used on input line 
-52.
-(pdftex.def)             Requested size: 364.19667pt x 240.26408pt.
- [38 <./Images/Wyniki/Raman/plotVVandVH.png>]
-<Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf, id=251, 310.15875pt x 262.9825pt
->
+52. on input line 52.
+Package pdftex.def Info: Requested size: 364.19667pt x 240.26408pt on input lin
+e 52.
+ [39 <./Images/Wyniki/Raman/plotVVandVH.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf, id=254, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf  used on 
-input line 61.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
- [39 <./Images/Wyniki/Raman/plotAllVV.pdf>]
-<Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf, id=282, 310.15875pt x 262.9825pt
->
+input line 61. on input line 61.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 61.
+ [40 <./Images/Wyniki/Raman/plotAllVV.pdf>]
+<Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf, id=285, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot143.pdf  used on 
-input line 68.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
-<Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf, id=283, 310.15875pt x 262.9825pt
->
+input line 68. on input line 68.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 68.
+<Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf, id=286, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf  used on 
-input line 75.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
- [40 <./Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf> <./Images/Wyniki/WidmoPol
+input line 75. on input line 75.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 75.
+ [41 <./Images/Wyniki/WidmoPolaryzacyjne/plot117.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot143.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot143.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf, id=302, 310.15875pt x 262.9825pt
->
+<Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf, id=305, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot235.pdf  used on 
-input line 82.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
-<Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf, id=303, 310.15875pt x 262.9825pt
->
+input line 82. on input line 82.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 82.
+<Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf, id=306, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf  used on 
-input line 89.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
- [41 <./Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf> <./Images/Wyniki/WidmoPol
+input line 89. on input line 89.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 89.
+ [42 <./Images/Wyniki/WidmoPolaryzacyjne/plot149.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot235.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot235.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf, id=322, 310.15875pt x 262.9825pt
->
+<Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf, id=326, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot330.pdf  used on 
-input line 96.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
-<Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf, id=323, 310.15875pt x 262.9825pt
->
+input line 96. on input line 96.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 96.
+<Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf, id=327, pagebox=cropbox, 310.158
+75pt x 262.9825pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf Graphic file (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/plot390.pdf  used on 
-input line 103.
-(pdftex.def)             Requested size: 341.43307pt x 289.49832pt.
- [42 <./Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf> <./Images/Wyniki/WidmoPol
+input line 103. on input line 103.
+Package pdftex.def Info: Requested size: 341.43307pt x 289.49832pt on input lin
+e 103.
+ [43 <./Images/Wyniki/WidmoPolaryzacyjne/plot309.pdf> <./Images/Wyniki/WidmoPol
 aryzacyjne/plot330.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/plot330.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->]) (dyplom-opracowanie-wynikow.tex [43 <./Images/Wyniki/WidmoPolaryzacyjne/plo
+>]) (dyplom-opracowanie-wynikow.tex [44 <./Images/Wyniki/WidmoPolaryzacyjne/plo
 t390.pdf>]
-<Images/Opracowanie/tetraedr.jpg, id=354, 104.7915pt x 101.178pt>
+<Images/Opracowanie/tetraedr.jpg, id=357, 104.7915pt x 101.178pt>
 File: Images/Opracowanie/tetraedr.jpg Graphic file (type jpg)
 <use Images/Opracowanie/tetraedr.jpg>
 Package pdftex.def Info: Images/Opracowanie/tetraedr.jpg  used on input line 9.
-
-(pdftex.def)             Requested size: 136.57462pt x 131.87718pt.
-<Images/Opracowanie/alfa_prim_Cc.png, id=355, 695.59875pt x 333.04425pt>
+ on input line 9.
+Package pdftex.def Info: Requested size: 136.57462pt x 131.87718pt on input lin
+e 9.
+<Images/Opracowanie/alfa_prim_Cc.png, id=358, 695.59875pt x 333.04425pt>
 File: Images/Opracowanie/alfa_prim_Cc.png Graphic file (type png)
 <use Images/Opracowanie/alfa_prim_Cc.png>
 Package pdftex.def Info: Images/Opracowanie/alfa_prim_Cc.png  used on input lin
-e 39.
-(pdftex.def)             Requested size: 171.17287pt x 81.95482pt.
-<Images/Opracowanie/alfa_prim_Bb.png, id=356, 472.164pt x 275.8305pt>
+e 39. on input line 39.
+Package pdftex.def Info: Requested size: 171.17287pt x 81.95482pt on input line
+ 39.
+<Images/Opracowanie/alfa_prim_Bb.png, id=359, 472.164pt x 275.8305pt>
 File: Images/Opracowanie/alfa_prim_Bb.png Graphic file (type png)
 <use Images/Opracowanie/alfa_prim_Bb.png>
 Package pdftex.def Info: Images/Opracowanie/alfa_prim_Bb.png  used on input lin
-e 43.
-(pdftex.def)             Requested size: 171.17287pt x 99.99756pt.
- [44 <./Images/Opracowanie/tetraedr.jpg>]
-<Images/Opracowanie/alfa.png, id=360, 405.9165pt x 277.63725pt>
+e 43. on input line 43.
+Package pdftex.def Info: Requested size: 171.17287pt x 99.99756pt on input line
+ 43.
+ [45 <./Images/Opracowanie/tetraedr.jpg>]
+<Images/Opracowanie/alfa.png, id=363, 405.9165pt x 277.63725pt>
 File: Images/Opracowanie/alfa.png Graphic file (type png)
 <use Images/Opracowanie/alfa.png>
-Package pdftex.def Info: Images/Opracowanie/alfa.png  used on input line 52.
-(pdftex.def)             Requested size: 171.17287pt x 117.07709pt.
-<Images/Opracowanie/beta.png, id=361, 418.56375pt x 282.45525pt>
+Package pdftex.def Info: Images/Opracowanie/alfa.png  used on input line 52. on
+ input line 52.
+Package pdftex.def Info: Requested size: 171.17287pt x 117.07709pt on input lin
+e 52.
+<Images/Opracowanie/beta.png, id=364, 418.56375pt x 282.45525pt>
 File: Images/Opracowanie/beta.png Graphic file (type png)
 <use Images/Opracowanie/beta.png>
-Package pdftex.def Info: Images/Opracowanie/beta.png  used on input line 56.
-(pdftex.def)             Requested size: 171.17287pt x 115.51001pt.
- [45 <./Images/Opracowanie/alfa_prim_Cc.png> <./Images/Opracowanie/alfa_prim_Bb
+Package pdftex.def Info: Images/Opracowanie/beta.png  used on input line 56. on
+ input line 56.
+Package pdftex.def Info: Requested size: 171.17287pt x 115.51001pt on input lin
+e 56.
+ [46 <./Images/Opracowanie/alfa_prim_Cc.png> <./Images/Opracowanie/alfa_prim_Bb
 .png> <./Images/Opracowanie/alfa.png> <./Images/Opracowanie/beta.png>]
-<Images/Opracowanie/Tensor-Cc.png, id=369, 143.3355pt x 126.4725pt>
+<Images/Opracowanie/Tensor-Cc.png, id=372, 143.3355pt x 126.4725pt>
 File: Images/Opracowanie/Tensor-Cc.png Graphic file (type png)
 <use Images/Opracowanie/Tensor-Cc.png>
 Package pdftex.def Info: Images/Opracowanie/Tensor-Cc.png  used on input line 8
-4.
-(pdftex.def)             Requested size: 136.57462pt x 120.51099pt.
-<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf, id=370, 361.3
-5pt x 361.35pt>
+4. on input line 84.
+Package pdftex.def Info: Requested size: 136.57462pt x 120.51099pt on input lin
+e 84.
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf, id=373, pageb
+ox=cropbox, 361.35pt x 361.35pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf Graphic f
 ile (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
-ieVV1.pdf  used on input line 98.
-(pdftex.def)             Requested size: 227.62206pt x 227.62413pt.
-<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf, id=371, 361.3
-5pt x 361.35pt>
+ieVV1.pdf  used on input line 98. on input line 98.
+Package pdftex.def Info: Requested size: 227.62206pt x 227.62413pt on input lin
+e 98.
+ [47 <./Images/Opracowanie/Tensor-Cc.png>]
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf, id=379, pageb
+ox=cropbox, 361.35pt x 361.35pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf Graphic f
 ile (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
-ieVV4.pdf  used on input line 105.
-(pdftex.def)             Requested size: 227.62206pt x 227.62413pt.
- [46 <./Images/Opracowanie/Tensor-Cc.png> <./Images/Wyniki/WidmoPolaryzacyjne/D
-opasowania/dopasowanieVV1.pdf>]
-<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf, id=384, 361.3
-5pt x 361.35pt>
+ieVV4.pdf  used on input line 105. on input line 105.
+Package pdftex.def Info: Requested size: 227.62206pt x 227.62413pt on input lin
+e 105.
+<Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf, id=380, pageb
+ox=cropbox, 361.35pt x 361.35pt>
 File: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf Graphic f
 ile (type pdf)
 <use Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf>
 Package pdftex.def Info: Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowan
-ieVV7.pdf  used on input line 112.
-(pdftex.def)             Requested size: 227.62206pt x 227.62413pt.
-
-[47 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf> <./Imag
-es/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV7.pdf
+ieVV7.pdf  used on input line 112. on input line 112.
+Package pdftex.def Info: Requested size: 227.62206pt x 227.62413pt on input lin
+e 112.
+ [48 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV1.pdf> <./Ima
+ges/Wyniki/WidmoPolaryzacyjne/Dopasowania/dopasowanieVV4.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Images/Wyniki/WidmoPolaryzacyjne/Dopasowan
-ia/dopasowanieVV7.pdf): PDF inclusion: multiple pdfs with page group included i
+ia/dopasowanieVV4.pdf): PDF inclusion: multiple pdfs with page group included i
 n a single page
->]) (dyplom-podsumowanie.tex [48]) (bibliografija.tex [49]
+>]) (dyplom-podsumowanie.tex [49 <./Images/Wyniki/WidmoPolaryzacyjne/Dopasowani
+a/dopasowanieVV7.pdf>]) (bibliografija.tex [50]
 Underfull \hbox (badness 1308) in paragraph at lines 9--10
 []\T1/cmr/m/n/10.95 Adrian Ka-mi«-ski, In-sty-tut Fi-zyki UAM $\OT1/cmr/m/n/10.
 95 "$\T1/cmr/m/n/10.95 Spektroskopia Ra-mana  drga-nia i widmo
  []
 
-[50] [51]) [52] (dyplom.aux) ) 
+[51] [52]) [53] (dyplom.aux) ) 
 Here is how much of TeX's memory you used:
- 6485 strings out of 492973
- 100713 string characters out of 3127579
- 194260 words of memory out of 3000000
- 10116 multiletter control sequences out of 15000+200000
+ 6672 strings out of 495169
+ 99797 string characters out of 3180275
+ 182918 words of memory out of 3000000
+ 9738 multiletter control sequences out of 15000+200000
  24838 words of font info for 64 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 39i,18n,34p,1859b,1560s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\vit\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\vit\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\vit\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\vit\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\User
-s\vit\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> 
-<C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1
-440.pk> <C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecbx2074.pk> <C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecxc1440.pk> <C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\vit\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\jknappen\ec\dpi600\ecxc2488.pk><C:/Users/vit/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vit/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vit/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/User
-s/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><C:/Users/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb><C:/Users/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Users/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vit/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vit/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/vit/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vit/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
-ers/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.
-pfb><C:/Users/vit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb>
-Output written on dyplom.pdf (53 pages, 10321984 bytes).
+ 34 hyphenation exceptions out of 8191
+ 39i,16n,34p,1859b,1559s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/f
+onts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super
+/sfbx1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
+c/cm-super/sfbx1200.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/t
+ype1/public/cm-super/sfbx1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Overshadow/AppData/Roamin
+g/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users/Overshadow/AppD
+ata/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/Overs
+hadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/U
+sers/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095
+.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-supe
+r/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/publ
+ic/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/
+type1/public/cm-super/sfxc2488.pfb>
+Output written on dyplom.pdf (54 pages, 10424736 bytes).
 PDF statistics:
- 876 PDF objects out of 1000 (max. 8388607)
+ 500 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  321 words of extra memory for PDF output out of 10000 (max. 10000000)
 

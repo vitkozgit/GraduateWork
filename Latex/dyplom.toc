@@ -1,4 +1,4 @@
-\babel@toc {polish}{}
+\select@language {polish}
 \contentsline {section}{\numberline {1}W\IeC {\l }asno\IeC {\'s}ci}{7}
 \contentsline {subsection}{\numberline {1.1}Fazy krystaliczne siarczku galu}{7}
 \contentsline {subsection}{\numberline {1.2}W\IeC {\l }asno\IeC {\'s}ci i zastosowania $\mathbf {Ga_{2}S_{3}}$}{14}
@@ -18,10 +18,10 @@
 \contentsline {subsection}{\numberline {2.8}Piki ramanowskie w cienkich warstwach}{27}
 \contentsline {subsection}{\numberline {2.9}Rozpraszanie dwufononowe}{28}
 \contentsline {subsection}{\numberline {2.10}Widmo ramanowskie w funkcji polaryzacji}{29}
-\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{31}
-\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{31}
-\contentsline {subsection}{\numberline {3.2}Technologia wytwarzania warstwy $\mathbf {Ga_{2}S_{3}}$}{33}
-\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{36}
-\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{44}
-\contentsline {section}{\numberline {6}Podsumowanie}{49}
-\contentsline {section}{Bibliografia}{50}
+\contentsline {section}{\numberline {3}Przygotowanie pr\IeC {\'o}bek do bada\IeC {\'n}}{32}
+\contentsline {subsection}{\numberline {3.1}Przyrz\IeC {\k a}d pomiarowy, rysunek, opis}{32}
+\contentsline {subsection}{\numberline {3.2}Technologia wytwarzania warstwy $\mathbf {Ga_{2}S_{3}}$}{34}
+\contentsline {section}{\numberline {4}Wyniki bada\IeC {\'n}}{37}
+\contentsline {section}{\numberline {5}Opracowanie wynik\IeC {\'o}w}{45}
+\contentsline {section}{\numberline {6}Podsumowanie}{50}
+\contentsline {section}{Bibliografia}{51}
