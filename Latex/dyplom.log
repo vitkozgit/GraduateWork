@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  15 NOV 2018 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2017.11.22)  25 NOV 2018 20:51
 entering extended mode
 **./dyplom.tex
 (dyplom.tex
@@ -717,7 +717,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
-<Images/Wlasciwosci/GaS/GaS_vesta.png, id=38, 542.025pt x 315.579pt>
+<Images/Wlasciwosci/GaS/GaS_vesta.png, id=39, 542.025pt x 315.579pt>
 File: Images/Wlasciwosci/GaS/GaS_vesta.png Graphic file (type png)
 <use Images/Wlasciwosci/GaS/GaS_vesta.png>
 Package pdftex.def Info: Images/Wlasciwosci/GaS/GaS_vesta.png  used on input li
@@ -1353,10 +1353,10 @@ Underfull \hbox (badness 1308) in paragraph at lines 9--10
 
 [51] [52]) [53] (dyplom.aux) ) 
 Here is how much of TeX's memory you used:
- 6672 strings out of 495169
- 99797 string characters out of 3180275
- 182918 words of memory out of 3000000
- 9738 multiletter control sequences out of 15000+200000
+ 6673 strings out of 495169
+ 99808 string characters out of 3180275
+ 182923 words of memory out of 3000000
+ 9739 multiletter control sequences out of 15000+200000
  24838 words of font info for 64 fonts, out of 3000000 for 9000
  34 hyphenation exceptions out of 8191
  39i,16n,34p,1859b,1559s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1387,7 +1387,7 @@ sers/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super/sfrm1095
 r/sfti1095.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/type1/publ
 ic/cm-super/sfxc1440.pfb><C:/Users/Overshadow/AppData/Roaming/MiKTeX/2.9/fonts/
 type1/public/cm-super/sfxc2488.pfb>
-Output written on dyplom.pdf (54 pages, 10424736 bytes).
+Output written on dyplom.pdf (54 pages, 10429990 bytes).
 PDF statistics:
  500 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
