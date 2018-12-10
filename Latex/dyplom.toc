@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {2.3}Rodzaje pasm obserwowanych w widmie ramanowskim}{20}
 \contentsline {subsection}{\numberline {2.4}Czynniki warunkuj\IeC {\k a}ce zaistnienie zjawiska Ramana}{21}
 \contentsline {subsubsection}{\numberline {2.4.1}Idealny dipol}{21}
-\contentsline {subsubsection}{\numberline {2.4.2}Realny dipol}{22}
+\contentsline {subsubsection}{\numberline {2.4.2}Indukowany moment dipolowy cz\IeC {\k a}steczki}{22}
 \contentsline {subsection}{\numberline {2.5}Przyk\IeC {\l }adowe widma ramanowskie}{23}
 \contentsline {subsection}{\numberline {2.6}Fonony w materiale}{24}
 \contentsline {subsection}{\numberline {2.7}Co mo\IeC {\.z}na odczyta\IeC {\'c} z widma ramanowskiego?}{26}
